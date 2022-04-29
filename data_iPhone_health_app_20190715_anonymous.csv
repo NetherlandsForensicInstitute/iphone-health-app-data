@@ -1,0 +1,1776 @@
+subject,telephone,date,trialnumber,carrying location,speed,biometry cond,swingstate cond,measured distance,registered distance,measured stepcount,registered stepcount
+1,iphone6b,20180523,1,trouser pocket,walking pace,NB,N,91.52,81.22,128,133
+1,iphone6b,20180523,2,trouser pocket,walking pace,NB,N,91.52,72.9,123,122
+1,iphone6b,20180523,4,jacket pocket,running pace,NB,N,91.52,101.23,105,106
+1,iphone6b,20180523,5,jacket pocket,running pace,NB,N,91.52,84.47,94,94
+1,iphone6b,20180523,7,low side jacket pocket,running pace,NB,N,247.12,258.85,280,280
+1,iphone6b,20180523,8,low side jacket pocket,running pace,NB,N,247.12,266.84,272,262
+1,iphone6b,20180523,10,hand,running pace,NB,N,247.12,276.81,278,278
+1,iphone6b,20180523,11,hand,running pace,NB,N,247.12,268.56,279,273
+1,iphone6b,20180523,13,backpack,walking pace,NB,N,91.52,68.76,127,129
+1,iphone6b,20180523,14,backpack,walking pace,NB,N,91.52,70.56,124,124
+1,iphone6b,20180523,15,backpack,walking pace,NB,N,247.12,187.46,328,328
+1,iphone6b,20180523,16,backpack,walking pace,NB,N,247.12,176.25,335,326
+1,iphone6b,20180523,17,backpack,running pace,NB,N,247.12,253.2,288,243
+1,iphone6b,20180523,18,backpack,running pace,NB,N,247.12,270.72,285,275
+1,iphone6b,20180523,20,low side jacket pocket,walking pace,NB,N,450.93,339.55,601,607
+1,iphone6b,20180523,21,low side jacket pocket,walking pace,NB,N,450.93,336.12,617,618
+1,iphone7,20180523,1,trouser pocket,walking pace,NB,N,91.52,86.8,128,144
+1,iphone7,20180523,2,trouser pocket,walking pace,NB,N,91.52,76.71,123,122
+1,iphone7,20180523,4,jacket pocket,running pace,NB,N,91.52,111.03,105,103
+1,iphone7,20180523,5,jacket pocket,running pace,NB,N,91.52,111.54,94,94
+1,iphone7,20180523,7,low side jacket pocket,running pace,NB,N,247.12,283.21,280,297
+1,iphone7,20180523,8,low side jacket pocket,running pace,NB,N,247.12,275.85,272,272
+1,iphone7,20180523,10,hand,running pace,NB,N,247.12,277.53,278,273
+1,iphone7,20180523,11,hand,running pace,NB,N,247.12,274.86,279,275
+1,iphone7,20180523,13,backpack,walking pace,NB,N,91.52,71.37,127,127
+1,iphone7,20180523,14,backpack,walking pace,NB,N,91.52,71.05,124,123
+1,iphone7,20180523,15,backpack,walking pace,NB,N,247.12,189.64,328,329
+1,iphone7,20180523,16,backpack,walking pace,NB,N,247.12,192.87,335,334
+1,iphone7,20180523,17,backpack,running pace,NB,N,247.12,321.71,288,279
+1,iphone7,20180523,18,backpack,running pace,NB,N,247.12,288.02,285,269
+1,iphone7,20180523,20,low side jacket pocket,walking pace,NB,N,450.93,394.91,601,600
+1,iphone7,20180523,21,low side jacket pocket,walking pace,NB,N,450.93,365.9,617,617
+2,iphone7,20180522,29,backpack,walking pace,NB,N,91.52,74.24,131,124
+2,iphone7,20180522,30,backpack,walking pace,NB,N,91.52,66.28,126,123
+2,iphone7,20180522,31,backpack,running pace,NB,N,91.52,94.46,91,100
+2,iphone7,20180522,32,backpack,running pace,NB,N,91.52,84.94,87,90
+2,iphone7,20180522,1,low side jacket pocket,walking pace,B,N,91.52,70.73,121,119
+2,iphone7,20180522,2,low side jacket pocket,running pace,B,N,91.52,84.61,89,91
+2,iphone7,20180522,3,low side jacket pocket,walking pace,B,N,247.12,184.62,321,319
+2,iphone7,20180522,4,low side jacket pocket,walking pace,B,N,247.12,189.71,322,321
+2,iphone7,20180522,5,low side jacket pocket,walking pace,B,N,91.52,70.61,117,114
+2,iphone7,20180522,6,low side jacket pocket,running pace,B,N,91.52,84.32,86,86
+2,iphone7,20180522,8,trouser pocket,walking pace,B,N,91.52,74.5,121,116
+2,iphone7,20180522,9,trouser pocket,running pace,B,N,91.52,106.54,90,89
+2,iphone7,20180522,10,trouser pocket,walking pace,B,N,247.12,199.68,320,317
+2,iphone7,20180522,11,trouser pocket,walking pace,B,N,247.12,198.68,316,314
+2,iphone7,20180522,12,trouser pocket,walking pace,B,N,91.52,68.38,118,110
+2,iphone7,20180522,13,trouser pocket,running pace,B,N,91.52,103.94,86,87
+2,iphone7,20180522,15,hand,walking pace,B,N,91.52,93.91,119,119
+2,iphone7,20180522,16,hand,running pace,B,N,91.52,86.69,88,84
+2,iphone7,20180522,17,hand,walking pace,B,N,247.12,241.87,312,311
+2,iphone7,20180522,18,hand,walking pace,B,N,247.12,255.52,326,325
+2,iphone7,20180522,19,hand,walking pace,B,N,91.52,92.97,120,118
+2,iphone7,20180522,20,hand,running pace,B,N,91.52,85.44,91,85
+2,iphone7,20180522,22,backpack,walking pace,B,N,91.52,99.66,120,130
+2,iphone7,20180522,23,backpack,running pace,B,N,91.52,78.91,84,83
+2,iphone7,20180522,24,backpack,walking pace,B,N,247.12,235.56,312,312
+2,iphone7,20180522,25,backpack,walking pace,B,N,247.12,247.76,320,323
+2,iphone7,20180522,26,backpack,walking pace,B,N,91.52,90.89,120,119
+2,iphone7,20180522,27,backpack,running pace,B,N,91.52,87.62,86,93
+2,iphone7,20180522,33,trouser pocket,walking pace,B,N,91.52,69.28,118,113
+2,iphone7,20180522,34,trouser pocket,running pace,B,N,91.52,102.4,90,87
+2,iphone6b,20180522,29,backpack,walking pace,NB,N,91.52,72.02,131,125
+2,iphone6b,20180522,30,backpack,walking pace,NB,N,91.52,61.9,126,119
+2,iphone6b,20180522,31,backpack,running pace,NB,N,91.52,76.83,91,89
+2,iphone6b,20180522,32,backpack,running pace,NB,N,91.52,75.53,87,88
+2,iphone6b,20180522,1,low side jacket pocket,walking pace,B,N,91.52,65.95,121,116
+2,iphone6b,20180522,2,low side jacket pocket,running pace,B,N,91.52,78.01,89,89
+2,iphone6b,20180522,3,low side jacket pocket,walking pace,B,N,247.12,182.87,321,321
+2,iphone6b,20180522,4,low side jacket pocket,walking pace,B,N,247.12,183.39,322,320
+2,iphone6b,20180522,5,low side jacket pocket,walking pace,B,N,91.52,63.99,117,117
+2,iphone6b,20180522,6,low side jacket pocket,running pace,B,N,91.52,77.73,86,84
+2,iphone6b,20180522,8,trouser pocket,walking pace,B,N,91.52,65.69,121,114
+2,iphone6b,20180522,9,trouser pocket,running pace,B,N,91.52,96.45,90,87
+2,iphone6b,20180522,10,trouser pocket,walking pace,B,N,247.12,206.48,320,317
+2,iphone6b,20180522,11,trouser pocket,walking pace,B,N,247.12,193.88,316,313
+2,iphone6b,20180522,12,trouser pocket,walking pace,B,N,91.52,70.13,118,116
+2,iphone6b,20180522,13,trouser pocket,running pace,B,N,91.52,90.56,86,85
+2,iphone6b,20180522,15,hand,walking pace,B,N,91.52,89.32,119,122
+2,iphone6b,20180522,16,hand,running pace,B,N,91.52,71.48,88,87
+2,iphone6b,20180522,17,hand,walking pace,B,N,247.12,229.89,312,310
+2,iphone6b,20180522,18,hand,walking pace,B,N,247.12,245.62,326,323
+2,iphone6b,20180522,19,hand,walking pace,B,N,91.52,87.15,120,118
+2,iphone6b,20180522,20,hand,running pace,B,N,91.52,76.04,91,86
+2,iphone6b,20180522,22,backpack,walking pace,B,N,91.52,89.33,120,117
+2,iphone6b,20180522,23,backpack,running pace,B,N,91.52,76.17,84,85
+2,iphone6b,20180522,24,backpack,walking pace,B,N,247.12,219.17,312,311
+2,iphone6b,20180522,25,backpack,walking pace,B,N,247.12,215.93,320,317
+2,iphone6b,20180522,26,backpack,walking pace,B,N,91.52,76.84,120,119
+2,iphone6b,20180522,27,backpack,running pace,B,N,91.52,75.77,86,83
+2,iphone6b,20180522,33,trouser pocket,walking pace,B,N,91.52,66.84,118,117
+2,iphone6b,20180522,24,trouser pocket,running pace,B,N,91.52,105.82,90,89
+2,iphone7,20180518,1,jacket pocket,walking pace,NB,N,450.93,447.35,564,563
+2,iphone7,20180518,2,jacket pocket,walking pace,NB,N,450.93,426.99,555,556
+2,iphone7,20180518,3,jacket pocket,walking pace,NB,N,247.12,241.01,300,302
+2,iphone7,20180518,4,jacket pocket,walking pace,NB,N,247.12,245.73,308,304
+2,iphone7,20180518,5,jacket pocket,walking pace,NB,N,91.52,91.48,112,114
+2,iphone7,20180518,6,jacket pocket,walking pace,NB,N,91.52,87.79,114,112
+2,iphone7,20180518,7,jacket pocket,running pace,NB,N,450.93,375.01,432,426
+2,iphone7,20180518,8,jacket pocket,running pace,NB,N,450.93,382.11,434,432
+2,iphone7,20180518,9,jacket pocket,running pace,NB,N,247.12,222.12,253,253
+2,iphone7,20180518,10,jacket pocket,running pace,NB,N,247.12,217.15,253,248
+2,iphone7,20180518,11,jacket pocket,running pace,NB,N,91.52,75.81,91,86
+2,iphone7,20180518,12,jacket pocket,running pace,NB,N,91.52,72.81,85,81
+2,iphone7,20180518,14,backpack,walking pace,NB,N,450.93,359.02,546,543
+2,iphone7,20180518,15,backpack,walking pace,NB,N,450.93,353.62,544,553
+2,iphone7,20180518,16,backpack,walking pace,NB,N,247.12,209.29,307,312
+2,iphone7,20180518,17,backpack,walking pace,NB,N,247.12,226.92,301,311
+2,iphone7,20180518,18,backpack,walking pace,NB,N,91.52,78.8,114,113
+2,iphone7,20180518,19,backpack,walking pace,NB,N,91.52,75.27,116,120
+2,iphone7,20180518,20,backpack,running pace,NB,N,450.93,402.55,423,421
+2,iphone7,20180518,21,backpack,running pace,NB,N,450.93,417.66,434,441
+2,iphone7,20180518,22,backpack,running pace,NB,N,247.12,227.88,250,242
+2,iphone7,20180518,23,backpack,running pace,NB,N,247.12,234.28,250,251
+2,iphone7,20180518,24,backpack,running pace,NB,N,91.52,88.08,84,91
+2,iphone7,20180518,25,backpack,running pace,NB,N,91.52,70.21,81,75
+2,iphone6b,20180518,1,jacket pocket,walking pace,NB,N,450.93,427.09,564,564
+2,iphone6b,20180518,2,jacket pocket,walking pace,NB,N,450.93,403.65,555,553
+2,iphone6b,20180518,3,jacket pocket,walking pace,NB,N,247.12,228.68,300,302
+2,iphone6b,20180518,4,jacket pocket,walking pace,NB,N,247.12,204.35,308,300
+2,iphone6b,20180518,5,jacket pocket,walking pace,NB,N,91.52,76.73,112,113
+2,iphone6b,20180518,6,jacket pocket,walking pace,NB,N,91.52,68.9,114,114
+2,iphone6b,20180518,7,jacket pocket,running pace,NB,N,450.93,421.11,432,428
+2,iphone6b,20180518,8,jacket pocket,running pace,NB,N,450.93,398.09,434,434
+2,iphone6b,20180518,9,jacket pocket,running pace,NB,N,247.12,234.12,253,251
+2,iphone6b,20180518,10,jacket pocket,running pace,NB,N,247.12,217.04,253,247
+2,iphone6b,20180518,11,jacket pocket,running pace,NB,N,91.52,65.73,91,90
+2,iphone6b,20180518,12,jacket pocket,running pace,NB,N,91.52,66.6,85,87
+2,iphone6b,20180518,14,backpack,walking pace,NB,N,450.93,309.41,546,543
+2,iphone6b,20180518,15,backpack,walking pace,NB,N,450.93,335.0,544,538
+2,iphone6b,20180518,16,backpack,walking pace,NB,N,247.12,190.45,307,307
+2,iphone6b,20180518,17,backpack,walking pace,NB,N,247.12,201.49,301,296
+2,iphone6b,20180518,18,backpack,walking pace,NB,N,91.52,67.19,114,112
+2,iphone6b,20180518,19,backpack,walking pace,NB,N,91.52,58.65,116,116
+2,iphone6b,20180518,20,backpack,running pace,NB,N,450.93,391.25,423,418
+2,iphone6b,20180518,21,backpack,running pace,NB,N,450.93,389.34,434,430
+2,iphone6b,20180518,23,backpack,running pace,NB,N,247.12,219.47,250,242
+2,iphone6b,20180518,24,backpack,running pace,NB,N,247.12,217.74,250,245
+2,iphone6b,20180518,25,backpack,running pace,NB,N,91.52,73.22,84,80
+2,iphone6b,20180518,26,backpack,running pace,NB,N,91.52,67.04,81,80
+2,iphone6b,20180515,1,low side jacket pocket,walking pace,NB,N,91.52,87.53,116,111
+2,iphone6b,20180515,2,low side jacket pocket,walking pace,NB,N,91.52,65.08,117,113
+2,iphone6b,20180515,3,low side jacket pocket,running pace,NB,N,91.52,82.54,87,88
+2,iphone6b,20180515,4,low side jacket pocket,running pace,NB,N,91.52,68.93,85,84
+2,iphone6b,20180515,5,low side jacket pocket,running pace,NB,N,247.12,239.22,236,235
+2,iphone6b,20180515,6,low side jacket pocket,running pace,NB,N,247.12,223.31,249,232
+2,iphone6b,20180515,7,low side jacket pocket,running pace,NB,N,450.93,427.36,442,441
+2,iphone6b,20180515,8,low side jacket pocket,running pace,NB,N,450.93,416.87,461,454
+2,iphone6b,20180515,10,hand,walking pace,NB,N,450.93,392.82,548,538
+2,iphone6b,20180515,11,hand,walking pace,NB,N,450.93,402.18,551,550
+2,iphone6b,20180515,12,hand,walking pace,NB,N,247.12,219.9,306,297
+2,iphone6b,20180515,13,hand,walking pace,NB,N,247.12,228.4,305,307
+2,iphone6b,20180515,14,hand,walking pace,NB,N,91.52,80.93,114,114
+2,iphone6b,20180515,15,hand,walking pace,NB,N,91.52,79.15,116,117
+2,iphone6b,20180515,16,hand,running pace,NB,N,450.93,413.85,450,445
+2,iphone6b,20180515,17,hand,running pace,NB,N,450.93,428.74,458,454
+2,iphone6b,20180515,18,hand,running pace,NB,N,247.12,224.75,247,248
+2,iphone6b,20180515,19,hand,running pace,NB,N,247.12,233.26,253,254
+2,iphone6b,20180515,20,hand,running pace,NB,N,91.52,84.55,90,90
+2,iphone6b,20180515,21,hand,running pace,NB,N,91.52,85.31,89,86
+2,iphone6b,20180515,22,hand,walking pace,NB,S,91.52,72.58,122,120
+2,iphone6b,20180515,23,hand,walking pace,NB,Z,91.52,186.9,120,148
+2,iphone6b,20180515,24,hand,running pace,NB,S,91.52,67.16,89,82
+2,iphone6b,20180515,25,hand,running pace,NB,Z,91.52,127.49,79,81
+2,iphone6b,20180515,26,hand,walking pace,NB,S,247.12,237.13,316,316
+2,iphone6b,20180515,27,hand,walking pace,NB,Z,247.12,500.88,349,373
+2,iphone6b,20180515,28,hand,running pace,NB,S,247.12,153.74,238,195
+2,iphone6b,20180515,29,hand,running pace,NB,Z,247.12,374.89,230,225
+2,iphone7,20180515,1,low side jacket pocket,walking pace,NB,N,91.52,70.21,116,113
+2,iphone7,20180515,2,low side jacket pocket,walking pace,NB,N,91.52,70.55,117,115
+2,iphone7,20180515,3,low side jacket pocket,running pace,NB,N,91.52,81.66,87,86
+2,iphone7,20180515,4,low side jacket pocket,running pace,NB,N,91.52,82.67,85,86
+2,iphone7,20180515,5,low side jacket pocket,running pace,NB,N,247.12,222.93,236,233
+2,iphone7,20180515,6,low side jacket pocket,running pace,NB,N,247.12,232.07,249,246
+2,iphone7,20180515,7,low side jacket pocket,running pace,NB,N,450.93,412.85,442,439
+2,iphone7,20180515,8,low side jacket pocket,running pace,NB,N,450.93,428.34,461,450
+2,iphone7,20180515,10,hand,walking pace,NB,N,450.93,400.67,548,534
+2,iphone7,20180515,11,hand,walking pace,NB,N,450.93,410.83,551,549
+2,iphone7,20180515,12,hand,walking pace,NB,N,247.12,222.35,306,299
+2,iphone7,20180515,13,hand,walking pace,NB,N,247.12,229.46,305,308
+2,iphone7,20180515,14,hand,walking pace,NB,N,91.52,84.9,114,115
+2,iphone7,20180515,15,hand,walking pace,NB,N,91.52,84.22,116,114
+2,iphone7,20180515,16,hand,running pace,NB,N,450.93,425.63,450,445
+2,iphone7,20180515,17,hand,running pace,NB,N,450.93,442.37,458,454
+2,iphone7,20180515,18,hand,running pace,NB,N,247.12,237.64,247,247
+2,iphone7,20180515,19,hand,running pace,NB,N,247.12,242.0,253,254
+2,iphone7,20180515,20,hand,running pace,NB,N,91.52,84.26,90,90
+2,iphone7,20180515,21,hand,running pace,NB,N,91.52,83.92,89,86
+2,iphone7,20180515,22,hand,walking pace,NB,S,91.52,85.29,122,120
+2,iphone7,20180515,23,hand,walking pace,NB,Z,91.52,201.13,120,144
+2,iphone7,20180515,24,hand,running pace,NB,S,91.52,78.13,89,90
+2,iphone7,20180515,25,hand,running pace,NB,Z,91.52,134.31,79,82
+2,iphone7,20180515,26,hand,walking pace,NB,S,247.12,239.73,316,315
+2,iphone7,20180515,27,hand,walking pace,NB,Z,247.12,458.9,349,343
+2,iphone7,20180515,28,hand,running pace,NB,S,247.12,192.2,238,211
+2,iphone7,20180515,29,hand,running pace,NB,Z,247.12,385.13,230,222
+1,iphone7,20180515,22,backpack,walking pace,B,N,91.52,92.3,124,123
+1,iphone7,20180515,23,backpack,running pace,B,N,91.52,94.24,95,89
+1,iphone7,20180515,24,backpack,walking pace,B,N,247.12,227.54,337,346
+1,iphone7,20180515,25,backpack,walking pace,B,N,247.12,241.5,342,344
+1,iphone7,20180515,26,backpack,walking pace,B,N,91.52,91.52,130,129
+1,iphone7,20180515,27,backpack,running pace,B,N,91.52,84.66,90,85
+1,iphone7,20180515,30,trouser pocket,walking pace,B,N,91.52,78.86,127,126
+1,iphone7,20180515,32,hand,walking pace,B,N,91.52,102.01,127,132
+1,iphone7,20180515,33,hand,running pace,B,N,91.52,96.46,90,92
+1,iphone6b,20180515,22,backpack,walking pace,B,N,91.52,85.27,124,123
+1,iphone6b,20180515,23,backpack,running pace,B,N,91.52,84.43,95,89
+1,iphone6b,20180515,24,backpack,walking pace,B,N,247.12,217.19,337,341
+1,iphone6b,20180515,25,backpack,walking pace,B,N,247.12,226.17,342,346
+1,iphone6b,20180515,26,backpack,walking pace,B,N,91.52,85.25,130,129
+1,iphone6b,20180515,27,backpack,running pace,B,N,91.52,72.74,90,81
+1,iphone6b,20180515,30,trouser pocket,walking pace,B,N,91.52,73.78,127,126
+1,iphone6b,20180515,31,trouser pocket,running pace,B,N,91.52,84.92,91,94
+1,iphone6b,20180515,32,hand,walking pace,B,N,91.52,97.94,127,128
+1,iphone6b,20180515,33,hand,running pace,B,N,91.52,77.01,90,90
+1,iphone8,20180515,22,backpack,walking pace,B,N,91.52,83.2,124,125
+1,iphone8,20180515,23,backpack,running pace,B,N,91.52,87.22,95,87
+1,iphone8,20180515,24,backpack,walking pace,B,N,247.12,235.93,337,325
+1,iphone8,20180515,25,backpack,walking pace,B,N,247.12,266.66,342,377
+1,iphone8,20180515,26,backpack,walking pace,B,N,91.52,93.71,130,133
+1,iphone8,20180515,27,backpack,running pace,B,N,91.52,82.2,90,86
+1,iphone8,20180515,30,trouser pocket,walking pace,B,N,91.52,79.73,127,132
+1,iphone8,20180515,31,trouser pocket,running pace,B,N,91.52,100.86,91,89
+1,iphone8,20180515,32,hand,walking pace,B,N,91.52,101.61,127,134
+1,iphone8,20180515,33,hand,running pace,B,N,91.52,95.05,90,91
+1,iphone6b,20180507,8,hand,walking pace,B,N,91.52,96.75,134,132
+1,iphone6b,20180507,9,hand,running pace,B,N,91.52,91.91,92,94
+1,iphone6b,20180507,10,hand,walking pace,B,N,247.12,244.6,342,340
+1,iphone6b,20180507,11,hand,walking pace,B,N,247.12,249.86,334,334
+1,iphone6b,20180507,12,hand,walking pace,B,N,91.52,93.29,128,128
+1,iphone6b,20180507,13,hand,running pace,B,N,91.52,98.81,95,101
+1,iphone6b,20180507,10,hand,walking pace,B,N,247.12,253.43,331,333
+1,iphone6b,20180507,11,hand,walking pace,B,N,247.12,249.07,327,326
+1,iphone6b,20180508,15,trouser pocket,walking pace,B,N,91.52,73.45,135,129
+1,iphone6b,20180508,16,trouser pocket,running pace,B,N,91.52,94.79,100,99
+1,iphone6b,20180508,17,trouser pocket,walking pace,B,N,247.12,187.4,331,332
+1,iphone6b,20180508,18,trouser pocket,walking pace,B,N,247.12,197.29,324,319
+1,iphone6b,20180508,19,trouser pocket,walking pace,B,N,91.52,66.13,127,126
+1,iphone6b,20180508,20,trouser pocket,running pace,B,N,91.52,103.32,90,87
+1,iphone6b,20180509,1,jacket pocket,walking pace,B,N,91.52,91.11,123,123
+1,iphone6b,20180509,2,jacket pocket,running pace,B,N,91.52,83.67,97,97
+1,iphone6b,20180509,3,jacket pocket,walking pace,B,N,247.12,230.13,332,338
+1,iphone6b,20180509,4,jacket pocket,walking pace,B,N,247.12,229.35,341,330
+1,iphone6b,20180509,5,jacket pocket,walking pace,B,N,91.52,88.0,126,125
+1,iphone6b,20180509,6,jacket pocket,running pace,B,N,91.52,91.1,93,94
+1,iphone7,20180507,8,hand,walking pace,B,N,91.52,102.04,134,139
+1,iphone7,20180507,9,hand,running pace,B,N,91.52,105.17,92,94
+1,iphone7,20180507,10,hand,walking pace,B,N,247.12,271.8,342,357
+1,iphone7,20180507,11,hand,walking pace,B,N,247.12,251.2,334,333
+1,iphone7,20180507,12,hand,walking pace,B,N,91.52,101.9,128,137
+1,iphone7,20180507,13,hand,running pace,B,N,91.52,107.85,95,101
+1,iphone7,20180507,10,hand,walking pace,B,N,247.12,266.1,331,338
+1,iphone7,20180507,11,hand,walking pace,B,N,247.12,254.73,327,328
+1,iphone7,20180508,15,trouser pocket,walking pace,B,N,91.52,76.66,135,131
+1,iphone7,20180508,16,trouser pocket,running pace,B,N,91.52,105.83,100,102
+1,iphone7,20180508,17,trouser pocket,walking pace,B,N,247.12,203.44,331,330
+1,iphone7,20180508,18,trouser pocket,walking pace,B,N,247.12,202.98,324,317
+1,iphone7,20180508,19,trouser pocket,walking pace,B,N,91.52,75.47,127,123
+1,iphone7,20180508,20,trouser pocket,running pace,B,N,91.52,95.17,90,88
+1,iphone7,20180509,1,jacket pocket,walking pace,B,N,91.52,106.75,123,146
+1,iphone7,20180509,2,jacket pocket,running pace,B,N,91.52,88.22,97,98
+1,iphone7,20180509,3,jacket pocket,walking pace,B,N,247.12,255.14,332,338
+1,iphone7,20180509,4,jacket pocket,walking pace,B,N,247.12,242.93,341,347
+1,iphone7,20180509,5,jacket pocket,walking pace,B,N,91.52,85.52,126,125
+1,iphone7,20180509,6,jacket pocket,running pace,B,N,91.52,96.15,93,94
+1,iphone8,20180507,8,hand,walking pace,B,N,91.52,100.47,134,136
+1,iphone8,20180507,9,hand,running pace,B,N,91.52,104.16,92,95
+1,iphone8,20180507,12,hand,walking pace,B,N,91.52,103.03,128,137
+1,iphone8,20180507,13,hand,running pace,B,N,91.52,105.06,95,97
+1,iphone8,20180507,10,hand,walking pace,B,N,247.12,264.78,331,337
+1,iphone8,20180507,11,hand,walking pace,B,N,247.12,255.35,327,326
+1,iphone8,20180508,15,trouser pocket,walking pace,B,N,91.52,74.93,135,136
+1,iphone8,20180508,16,trouser pocket,running pace,B,N,91.52,103.64,100,94
+1,iphone8,20180508,17,trouser pocket,walking pace,B,N,247.12,189.69,331,332
+1,iphone8,20180508,18,trouser pocket,walking pace,B,N,247.12,199.17,324,320
+1,iphone8,20180508,19,trouser pocket,walking pace,B,N,91.52,72.98,127,126
+1,iphone8,20180508,20,trouser pocket,running pace,B,N,91.52,105.2,90,88
+1,iphone8,20180509,1,jacket pocket,walking pace,B,N,91.52,81.16,123,122
+1,iphone8,20180509,2,jacket pocket,running pace,B,N,91.52,89.75,97,98
+1,iphone8,20180509,3,jacket pocket,walking pace,B,N,247.12,223.92,332,340
+1,iphone8,20180509,4,jacket pocket,walking pace,B,N,247.12,222.18,341,351
+1,iphone8,20180509,5,jacket pocket,walking pace,B,N,91.52,90.51,126,125
+1,iphone8,20180509,6,jacket pocket,running pace,B,N,91.52,95.63,93,94
+1,iphone7,20180504,1,low side jacket pocket,walking pace,NB,N,91.52,88.6,121,122
+1,iphone7,20180504,2,low side jacket pocket,walking pace,NB,N,91.52,72.44,121,121
+1,iphone7,20180504,3,low side jacket pocket,walking pace,NB,N,247.12,208.8,352,352
+1,iphone7,20180504,4,low side jacket pocket,walking pace,NB,N,247.12,252.51,362,363
+1,iphone7,20180504,7,low side jacket pocket,running pace,NB,N,91.52,92.2,98,100
+1,iphone7,20180504,9,low side jacket pocket,running pace,NB,N,247.12,252.49,270,275
+1,iphone7,20180504,11,low side jacket pocket,running pace,NB,N,450.93,482.92,516,514
+1,iphone7,20180504,12,low side jacket pocket,running pace,NB,N,450.93,451.51,499,490
+1,iphone6b,20180504,1,low side jacket pocket,walking pace,NB,N,91.52,75.2,121,121
+1,iphone6b,20180504,2,low side jacket pocket,walking pace,NB,N,91.52,64.43,121,121
+1,iphone6b,20180504,3,low side jacket pocket,walking pace,NB,N,247.12,192.16,352,353
+1,iphone6b,20180504,4,low side jacket pocket,walking pace,NB,N,247.12,243.31,362,362
+1,iphone6b,20180504,5,low side jacket pocket,walking pace,NB,N,450.93,438.5,621,622
+1,iphone6b,20180504,6,low side jacket pocket,walking pace,NB,N,450.93,358.99,615,615
+1,iphone6b,20180504,7,low side jacket pocket,running pace,NB,N,91.52,81.26,98,98
+1,iphone6b,20180504,8,low side jacket pocket,running pace,NB,N,91.52,80.15,98,100
+1,iphone6b,20180504,9,low side jacket pocket,running pace,NB,N,247.12,235.36,277,264
+1,iphone6b,20180504,10,low side jacket pocket,running pace,NB,N,247.12,239.33,270,261
+1,iphone6b,20180504,11,low side jacket pocket,running pace,NB,N,450.93,452.4,516,512
+1,iphone6b,20180504,12,low side jacket pocket,running pace,NB,N,450.93,441.14,499,485
+1,iphone8,20180504,1,low side jacket pocket,walking pace,NB,N,91.52,73.69,121,122
+1,iphone8,20180504,2,low side jacket pocket,walking pace,NB,N,91.52,70.45,121,120
+1,iphone8,20180504,3,low side jacket pocket,walking pace,NB,N,247.12,204.25,352,352
+1,iphone8,20180504,4,low side jacket pocket,walking pace,NB,N,247.12,204.73,362,364
+1,iphone8,20180504,5,low side jacket pocket,walking pace,NB,N,450.93,357.54,621,620
+1,iphone8,20180504,6,low side jacket pocket,walking pace,NB,N,450.93,353.56,615,613
+1,iphone8,20180504,7,low side jacket pocket,running pace,NB,N,91.52,91.82,98,101
+1,iphone8,20180504,8,low side jacket pocket,running pace,NB,N,91.52,89.98,98,100
+1,iphone8,20180504,9,low side jacket pocket,running pace,NB,N,247.12,249.03,277,276
+1,iphone8,20180504,10,low side jacket pocket,running pace,NB,N,247.12,241.05,270,261
+1,iphone8,20180504,11,low side jacket pocket,running pace,NB,N,450.93,461.26,516,516
+1,iphone8,20180504,12,low side jacket pocket,running pace,NB,N,450.93,446.13,499,494
+1,iphone8,20180503,14,backpack,walking pace,NB,N,91.52,96.22,120,125
+1,iphone8,20180503,15,backpack,walking pace,NB,N,91.52,93.6,128,128
+1,iphone8,20180503,16,backpack,walking pace,NB,N,247.12,261.6,336,338
+1,iphone8,20180503,17,backpack,walking pace,NB,N,247.12,252.98,330,336
+1,iphone8,20180503,18,backpack,walking pace,NB,N,450.93,463.5,616,615
+1,iphone8,20180503,19,backpack,walking pace,NB,N,450.93,459.77,597,599
+1,iphone8,20180503,20,backpack,running pace,NB,N,91.52,94.13,88,97
+1,iphone8,20180503,21,backpack,running pace,NB,N,91.52,84.31,91,88
+1,iphone8,20180503,22,backpack,running pace,NB,N,247.12,242.95,246,249
+1,iphone8,20180503,23,backpack,running pace,NB,N,247.12,217.19,260,237
+1,iphone8,20180503,24,backpack,running pace,NB,N,450.93,442.42,460,450
+1,iphone8,20180503,25,backpack,running pace,NB,N,450.93,362.87,464,393
+1,iphone7,20180503,14,backpack,walking pace,NB,N,91.52,98.35,120,125
+1,iphone7,20180503,15,backpack,walking pace,NB,N,91.52,100.06,128,128
+1,iphone7,20180503,16,backpack,walking pace,NB,N,247.12,261.14,336,341
+1,iphone7,20180503,17,backpack,walking pace,NB,N,247.12,246.75,330,331
+1,iphone7,20180503,18,backpack,walking pace,NB,N,450.93,473.08,616,624
+1,iphone7,20180503,19,backpack,walking pace,NB,N,450.93,448.92,597,602
+1,iphone7,20180503,20,backpack,running pace,NB,N,91.52,97.69,88,100
+1,iphone7,20180503,21,backpack,running pace,NB,N,91.52,87.96,91,87
+1,iphone7,20180503,22,backpack,running pace,NB,N,247.12,230.67,246,245
+1,iphone7,20180503,23,backpack,running pace,NB,N,247.12,238.52,260,236
+1,iphone7,20180503,24,backpack,running pace,NB,N,450.93,427.38,460,443
+1,iphone7,20180503,25,backpack,running pace,NB,N,450.93,357.27,464,368
+1,iphone6b,20180503,14,backpack,walking pace,NB,N,91.52,81.81,120,112
+1,iphone6b,20180503,15,backpack,walking pace,NB,N,91.52,87.46,128,125
+1,iphone6b,20180503,16,backpack,walking pace,NB,N,247.12,260.13,336,341
+1,iphone6b,20180503,17,backpack,walking pace,NB,N,247.12,252.01,330,330
+1,iphone6b,20180503,18,backpack,walking pace,NB,N,450.93,450.34,616,615
+1,iphone6b,20180503,19,backpack,walking pace,NB,N,450.93,414.44,597,602
+1,iphone6b,20180503,20,backpack,running pace,NB,N,91.52,78.93,88,96
+1,iphone6b,20180503,21,backpack,running pace,NB,N,91.52,80.9,91,93
+1,iphone6b,20180503,22,backpack,running pace,NB,N,247.12,232.83,246,246
+1,iphone6b,20180503,23,backpack,running pace,NB,N,247.12,220.88,260,241
+1,iphone6b,20180503,24,backpack,running pace,NB,N,450.93,407.78,460,422
+1,iphone6b,20180503,25,backpack,running pace,NB,N,450.93,351.08,464,375
+1,iphone8,20180502,1,hand,walking pace,NB,N,91.52,103.93,131,132
+1,iphone8,20180502,2,hand,walking pace,NB,N,91.52,96.65,127,131
+1,iphone8,20180502,3,hand,walking pace,NB,N,247.12,270.33,348,354
+1,iphone8,20180502,4,hand,walking pace,NB,N,247.12,253.67,342,337
+1,iphone8,20180502,5,hand,walking pace,NB,N,450.93,466.52,612,615
+1,iphone8,20180502,6,hand,walking pace,NB,N,450.93,452.9,606,603
+1,iphone8,20180502,7,hand,running pace,NB,N,91.52,107.3,100,104
+1,iphone8,20180502,8,hand,running pace,NB,N,91.52,97.42,104,95
+1,iphone8,20180502,9,hand,running pace,NB,N,247.12,277.49,269,280
+1,iphone8,20180502,10,hand,running pace,NB,N,247.12,278.37,268,274
+1,iphone8,20180502,11,hand,running pace,NB,N,450.93,451.93,485,449
+1,iphone8,20180502,12,hand,running pace,NB,N,450.93,452.02,483,463
+1,iphone8,20180502,14,hand,walking pace,NB,S,91.52,103.67,130,139
+1,iphone8,20180502,15,hand,walking pace,NB,Z,91.52,132.7,110,124
+1,iphone8,20180502,16,hand,running pace,NB,S,91.52,77.81,88,81
+1,iphone8,20180502,17,hand,running pace,NB,Z,91.52,126.55,78,82
+1,iphone8,20180502,18,hand,walking pace,NB,S,247.12,259.9,318,324
+1,iphone8,20180502,19,hand,walking pace,NB,Z,247.12,302.3,296,305
+1,iphone8,20180502,20,hand,running pace,NB,S,247.12,241.01,266,254
+1,iphone8,20180502,21,hand,running pace,NB,Z,247.12,352.73,218,206
+1,iphone7,20180502,1,hand,walking pace,NB,N,91.52,99.32,131,127
+1,iphone7,20180502,2,hand,walking pace,NB,N,91.52,99.34,127,135
+1,iphone7,20180502,3,hand,walking pace,NB,N,247.12,269.6,348,354
+1,iphone7,20180502,4,hand,walking pace,NB,N,247.12,223.57,342,343
+1,iphone7,20180502,5,hand,walking pace,NB,N,450.93,469.35,612,616
+1,iphone7,20180502,6,hand,walking pace,NB,N,450.93,454.72,606,607
+1,iphone7,20180502,7,hand,running pace,NB,N,91.52,107.76,100,106
+1,iphone7,20180502,8,hand,running pace,NB,N,91.52,99.77,104,98
+1,iphone7,20180502,11,hand,running pace,NB,N,450.93,468.98,485,480
+1,iphone7,20180502,12,hand,running pace,NB,N,450.93,455.13,483,466
+1,iphone7,20180502,14,hand,walking pace,NB,S,91.52,94.48,130,125
+1,iphone7,20180502,15,hand,walking pace,NB,Z,91.52,127.77,110,123
+1,iphone7,20180502,16,hand,running pace,NB,S,91.52,47.84,88,53
+1,iphone7,20180502,17,hand,running pace,NB,Z,91.52,123.55,78,80
+1,iphone7,20180502,18,hand,walking pace,NB,S,247.12,260.95,318,323
+1,iphone7,20180502,19,hand,walking pace,NB,Z,247.12,289.75,296,302
+1,iphone7,20180502,20,hand,running pace,NB,S,247.12,243.59,266,259
+1,iphone7,20180502,21,hand,running pace,NB,Z,247.12,359.88,218,223
+1,iphone6b,20180502,1,hand,walking pace,NB,N,91.52,100.43,131,133
+1,iphone6b,20180502,2,hand,walking pace,NB,N,91.52,95.43,127,135
+1,iphone6b,20180502,3,hand,walking pace,NB,N,247.12,262.1,348,348
+1,iphone6b,20180502,4,hand,walking pace,NB,N,247.12,248.66,342,341
+1,iphone6b,20180502,5,hand,walking pace,NB,N,450.93,453.77,612,608
+1,iphone6b,20180502,6,hand,walking pace,NB,N,450.93,451.3,606,607
+1,iphone6b,20180502,7,hand,running pace,NB,N,91.52,102.27,100,105
+1,iphone6b,20180502,8,hand,running pace,NB,N,91.52,95.63,104,97
+1,iphone6b,20180502,9,hand,running pace,NB,N,247.12,255.54,269,271
+1,iphone6b,20180502,10,hand,running pace,NB,N,247.12,266.25,268,269
+1,iphone6b,20180502,11,hand,running pace,NB,N,450.93,455.18,485,473
+1,iphone6b,20180502,12,hand,running pace,NB,N,450.93,449.45,483,476
+1,iphone6b,20180502,14,hand,walking pace,NB,S,91.52,97.6,130,130
+1,iphone6b,20180502,15,hand,walking pace,NB,Z,91.52,118.27,110,121
+1,iphone6b,20180502,16,hand,running pace,NB,S,91.52,29.55,88,59
+1,iphone6b,20180502,17,hand,running pace,NB,Z,91.52,118.95,78,84
+1,iphone6b,20180502,18,hand,walking pace,NB,S,247.12,254.06,318,324
+1,iphone6b,20180502,19,hand,walking pace,NB,Z,247.12,281.92,296,301
+1,iphone6b,20180502,20,hand,running pace,NB,S,247.12,237.09,266,257
+1,iphone6b,20180502,21,hand,running pace,NB,Z,247.12,322.04,218,208
+3,iphone7,20180501,1,backpack,walking pace,NB,N,91.52,69.27,110,108
+3,iphone7,20180501,2,backpack,walking pace,NB,N,91.52,74.15,109,109
+3,iphone7,20180501,3,backpack,walking pace,NB,N,247.12,189.2,288,297
+3,iphone7,20180501,4,backpack,walking pace,NB,N,247.12,195.36,289,285
+3,iphone7,20180501,5,backpack,running pace,NB,N,91.52,73.93,81,82
+3,iphone7,20180501,6,backpack,running pace,NB,N,91.52,80.75,91,92
+3,iphone7,20180501,10,backpack,walking pace,NB,N,91.52,69.17,110,116
+3,iphone7,20180501,11,backpack,walking pace,NB,N,91.52,75.77,107,107
+3,iphone7,20180501,12,backpack,walking pace,NB,N,247.12,186.69,286,286
+3,iphone7,20180501,13,backpack,walking pace,NB,N,247.12,196.09,288,288
+3,iphone7,20180501,14,backpack,running pace,NB,N,91.52,77.26,92,89
+3,iphone7,20180501,15,backpack,walking pace,NB,N,91.52,63.06,101,101
+3,iphone7,20180501,19,hand,walking pace,NB,N,91.52,86.75,109,112
+3,iphone7,20180501,20,hand,walking pace,NB,N,91.52,94.03,108,117
+3,iphone7,20180501,21,hand,walking pace,NB,N,247.12,230.17,287,293
+3,iphone7,20180501,22,hand,walking pace,NB,N,247.12,238.73,294,299
+3,iphone7,20180501,23,hand,walking pace,NB,N,91.52,86.8,111,114
+3,iphone7,20180501,24,hand,walking pace,NB,N,91.52,90.26,110,120
+3,iphone6b,20180501,1,backpack,walking pace,NB,N,91.52,60.87,110,107
+3,iphone6b,20180501,2,backpack,walking pace,NB,N,91.52,57.48,109,105
+3,iphone6b,20180501,3,backpack,walking pace,NB,N,247.12,175.55,288,278
+3,iphone6b,20180501,4,backpack,walking pace,NB,N,247.12,183.92,289,278
+3,iphone6b,20180501,5,backpack,running pace,NB,N,91.52,65.15,81,80
+3,iphone6b,20180501,6,backpack,running pace,NB,N,91.52,72.76,91,92
+3,iphone6b,20180501,10,backpack,walking pace,NB,N,91.52,57.71,110,109
+3,iphone6b,20180501,11,backpack,walking pace,NB,N,91.52,71.22,107,107
+3,iphone6b,20180501,12,backpack,walking pace,NB,N,247.12,169.02,286,278
+3,iphone6b,20180501,13,backpack,walking pace,NB,N,247.12,189.35,288,281
+3,iphone6b,20180501,14,backpack,running pace,NB,N,91.52,60.47,92,85
+3,iphone6b,20180501,15,backpack,walking pace,NB,N,91.52,58.31,101,100
+3,iphone6b,20180501,19,hand,walking pace,NB,N,91.52,77.2,109,110
+3,iphone6b,20180501,20,hand,walking pace,NB,N,91.52,80.98,108,111
+3,iphone6b,20180501,21,hand,walking pace,NB,N,247.12,226.33,287,293
+3,iphone6b,20180501,22,hand,walking pace,NB,N,247.12,226.17,294,285
+3,iphone6b,20180501,23,hand,walking pace,NB,N,91.52,83.35,111,116
+3,iphone6b,20180501,24,hand,walking pace,NB,N,91.52,79.31,110,112
+4,iphone7,20180426,1,jacket pocket,walking pace,NB,N,91.52,84.59,112,110
+4,iphone7,20180426,2,jacket pocket,walking pace,NB,N,91.52,88.64,118,116
+4,iphone7,20180426,4,jacket pocket,walking pace,B,N,91.52,95.63,115,114
+4,iphone7,20180426,5,jacket pocket,running pace,B,N,91.52,75.49,75,74
+4,iphone7,20180426,6,jacket pocket,walking pace,B,N,247.12,249.69,303,301
+4,iphone7,20180426,7,jacket pocket,walking pace,B,N,247.12,252.44,314,309
+4,iphone7,20180426,8,jacket pocket,walking pace,B,N,91.52,96.51,111,111
+4,iphone7,20180426,9,jacket pocket,running pace,B,N,91.52,77.55,75,76
+4,iphone7,20180426,11,low side jacket pocket,walking pace,B,N,91.52,77.96,114,114
+4,iphone7,20180426,12,low side jacket pocket,running pace,B,N,91.52,86.99,73,73
+4,iphone7,20180426,13,low side jacket pocket,walking pace,B,N,247.12,202.43,303,301
+4,iphone7,20180426,14,low side jacket pocket,walking pace,B,N,247.12,203.18,306,307
+4,iphone7,20180426,15,low side jacket pocket,walking pace,B,N,91.52,76.17,118,118
+4,iphone7,20180426,16,low side jacket pocket,running pace,B,N,91.52,88.8,74,76
+4,iphone7,20180426,18,hand,walking pace,B,N,91.52,97.87,112,113
+4,iphone7,20180426,19,hand,running pace,B,N,91.52,98.83,77,78
+4,iphone7,20180426,20,hand,walking pace,B,N,247.12,253.16,304,305
+4,iphone7,20180426,21,hand,walking pace,B,N,247.12,253.27,305,303
+4,iphone7,20180426,22,hand,walking pace,B,N,91.52,90.1,114,112
+4,iphone7,20180426,23,hand,running pace,B,N,91.52,111.1,73,76
+4,iphone7,20180426,25,backpack,walking pace,B,N,91.52,87.03,115,114
+4,iphone7,20180426,26,backpack,running pace,B,N,91.52,71.16,78,75
+4,iphone7,20180426,27,backpack,walking pace,B,N,247.12,214.45,305,304
+4,iphone7,20180426,28,backpack,walking pace,B,N,247.12,262.53,308,310
+4,iphone7,20180426,29,backpack,walking pace,B,N,91.52,93.81,116,114
+4,iphone7,20180426,30,backpack,running pace,B,N,91.52,70.1,73,73
+4,iphone7,20180426,31,backpack,walking pace,B,N,247.12,232.34,306,301
+4,iphone6b,20180426,1,jacket pocket,walking pace,NB,N,91.52,84.41,112,110
+4,iphone6b,20180426,2,jacket pocket,walking pace,NB,N,91.52,60.7,118,117
+4,iphone6b,20180426,4,jacket pocket,walking pace,B,N,91.52,86.73,115,115
+4,iphone6b,20180426,5,jacket pocket,running pace,B,N,91.52,83.13,75,76
+4,iphone6b,20180426,6,jacket pocket,walking pace,B,N,247.12,233.93,303,303
+4,iphone6b,20180426,7,jacket pocket,walking pace,B,N,247.12,243.01,314,314
+4,iphone6b,20180426,8,jacket pocket,walking pace,B,N,91.52,76.65,111,110
+4,iphone6b,20180426,9,jacket pocket,running pace,B,N,91.52,78.3,75,72
+4,iphone6b,20180426,11,low side jacket pocket,walking pace,B,N,91.52,69.44,114,114
+4,iphone6b,20180426,12,low side jacket pocket,running pace,B,N,91.52,78.51,73,73
+4,iphone6b,20180426,13,low side jacket pocket,walking pace,B,N,247.12,194.14,303,305
+4,iphone6b,20180426,14,low side jacket pocket,walking pace,B,N,247.12,201.06,306,305
+4,iphone6b,20180426,15,low side jacket pocket,walking pace,B,N,91.52,72.39,118,118
+4,iphone6b,20180426,16,low side jacket pocket,running pace,B,N,91.52,70.11,74,72
+4,iphone6b,20180426,18,hand,walking pace,B,N,91.52,95.75,112,112
+4,iphone6b,20180426,19,hand,running pace,B,N,91.52,79.5,77,76
+4,iphone6b,20180426,20,hand,walking pace,B,N,247.12,246.81,304,305
+4,iphone6b,20180426,21,hand,walking pace,B,N,247.12,241.0,305,303
+4,iphone6b,20180426,22,hand,walking pace,B,N,91.52,90.0,114,116
+4,iphone6b,20180426,23,hand,running pace,B,N,91.52,91.49,73,73
+4,iphone6b,20180426,25,backpack,walking pace,B,N,91.52,77.34,115,114
+4,iphone6b,20180426,29,backpack,walking pace,B,N,91.52,81.07,116,115
+4,iphone6b,20180426,30,backpack,running pace,B,N,91.52,60.08,72,71
+4,iphone6b,20180426,31,backpack,walking pace,B,N,247.12,235.72,306,304
+4,iphone6b,20180425,1,trouser pocket,walking pace,NB,N,91.52,61.87,118,118
+4,iphone6b,20180425,2,trouser pocket,walking pace,NB,N,91.52,58.3,112,112
+4,iphone6b,20180425,4,trouser pocket,walking pace,NB,N,247.12,183.94,311,307
+4,iphone6b,20180425,5,trouser pocket,running pace,NB,N,247.12,243.71,229,227
+4,iphone6b,20180425,7,backpack,walking pace,NB,N,91.52,86.39,114,115
+4,iphone6b,20180425,8,backpack,walking pace,NB,N,91.52,88.07,113,111
+4,iphone6b,20180425,10,backpack,walking pace,NB,N,247.12,230.6,312,314
+4,iphone6b,20180425,11,backpack,running pace,NB,N,247.12,184.89,230,217
+4,iphone6b,20180425,13,low side jacket pocket,walking pace,NB,N,91.52,67.01,115,113
+4,iphone6b,20180425,14,low side jacket pocket,walking pace,NB,N,91.52,64.08,110,109
+4,iphone6b,20180425,15,low side jacket pocket,walking pace,NB,N,247.12,170.43,305,288
+4,iphone6b,20180425,16,low side jacket pocket,walking pace,NB,N,247.12,180.87,317,315
+4,iphone6b,20180425,17,low side jacket pocket,walking pace,NB,N,450.93,308.65,561,560
+4,iphone6b,20180425,18,low side jacket pocket,walking pace,NB,N,450.93,323.7,560,559
+4,iphone6b,20180425,19,low side jacket pocket,running pace,NB,N,450.93,451.47,424,406
+4,iphone6b,20180425,20,low side jacket pocket,running pace,NB,N,450.93,474.19,423,421
+4,iphone6b,20180425,21,low side jacket pocket,running pace,NB,N,247.12,249.95,226,227
+4,iphone6b,20180425,22,low side jacket pocket,running pace,NB,N,247.12,264.69,218,215
+4,iphone6b,20180425,23,low side jacket pocket,running pace,NB,N,91.52,90.07,73,73
+4,iphone6b,20180425,24,low side jacket pocket,running pace,NB,N,91.52,69.89,71,73
+4,iphone6b,20180425,26,backpack,walking pace,NB,N,91.52,72.61,115,115
+4,iphone6b,20180425,27,backpack,walking pace,NB,N,91.52,67.89,117,117
+4,iphone6b,20180425,28,backpack,walking pace,NB,N,247.12,204.96,313,314
+4,iphone6b,20180425,29,backpack,walking pace,NB,N,247.12,207.07,315,314
+4,iphone7,20180425,1,trouser pocket,walking pace,NB,N,91.52,66.99,118,117
+4,iphone7,20180425,2,trouser pocket,walking pace,NB,N,91.52,67.83,112,112
+4,iphone7,20180425,4,trouser pocket,walking pace,NB,N,247.12,184.69,312,309
+4,iphone7,20180425,5,trouser pocket,running pace,NB,N,247.12,258.11,229,229
+4,iphone7,20180425,7,backpack,walking pace,NB,N,91.52,95.03,114,119
+4,iphone7,20180425,8,backpack,walking pace,NB,N,91.52,93.16,113,112
+4,iphone7,20180425,10,backpack,walking pace,NB,N,247.12,247.42,312,312
+4,iphone7,20180425,11,backpack,running pace,NB,N,247.12,214.45,230,239
+4,iphone7,20180425,13,low side jacket pocket,walking pace,NB,N,91.52,69.43,115,114
+4,iphone7,20180425,14,low side jacket pocket,walking pace,NB,N,91.52,67.85,110,108
+4,iphone7,20180425,15,low side jacket pocket,walking pace,NB,N,247.12,166.35,305,275
+4,iphone7,20180425,16,low side jacket pocket,walking pace,NB,N,247.12,184.16,317,316
+4,iphone7,20180425,17,low side jacket pocket,walking pace,NB,N,450.93,323.71,561,561
+4,iphone7,20180425,18,low side jacket pocket,walking pace,NB,N,450.93,330.77,560,559
+4,iphone7,20180425,19,low side jacket pocket,running pace,NB,N,450.93,494.15,424,424
+4,iphone7,20180425,20,low side jacket pocket,running pace,NB,N,450.93,483.74,423,423
+4,iphone7,20180425,21,low side jacket pocket,running pace,NB,N,247.12,274.13,226,222
+4,iphone7,20180425,22,low side jacket pocket,running pace,NB,N,247.12,276.58,218,220
+4,iphone7,20180425,23,low side jacket pocket,running pace,NB,N,91.52,92.74,73,73
+4,iphone7,20180425,24,low side jacket pocket,running pace,NB,N,91.52,95.46,71,72
+4,iphone7,20180425,26,backpack,walking pace,NB,N,91.52,81.01,115,116
+4,iphone7,20180425,27,backpack,walking pace,NB,N,91.52,79.77,117,118
+4,iphone7,20180425,28,backpack,walking pace,NB,N,247.12,212.59,313,313
+4,iphone7,20180425,29,backpack,walking pace,NB,N,247.12,214.58,315,314
+2,iphone6b,20180424,1,trouser pocket,walking pace,NB,N,450.93,464.61,595,593
+2,iphone6b,20180424,2,trouser pocket,walking pace,NB,N,450.93,451.7,595,594
+2,iphone6b,20180424,3,trouser pocket,walking pace,NB,N,247.12,262.96,330,327
+2,iphone6b,20180424,4,trouser pocket,walking pace,NB,N,247.12,255.71,333,327
+2,iphone6b,20180424,5,trouser pocket,walking pace,NB,N,91.52,99.95,125,122
+2,iphone6b,20180424,6,trouser pocket,walking pace,NB,N,91.52,91.86,123,120
+2,iphone6b,20180424,7,trouser pocket,running pace,NB,N,450.93,522.6,426,420
+2,iphone6b,20180424,8,trouser pocket,running pace,NB,N,450.93,521.75,420,415
+2,iphone6b,20180424,9,trouser pocket,running pace,NB,N,247.12,292.37,236,241
+2,iphone6b,20180424,10,trouser pocket,running pace,NB,N,247.12,270.88,230,221
+2,iphone6b,20180424,11,trouser pocket,running pace,NB,N,91.52,102.82,85,86
+2,iphone6b,20180424,12,trouser pocket,running pace,NB,N,91.52,101.42,80,80
+2,iphone6b,20180424,14,low side jacket pocket,walking pace,NB,N,91.52,63.48,119,115
+2,iphone6b,20180424,15,low side jacket pocket,walking pace,NB,N,91.52,66.85,119,117
+2,iphone6b,20180424,16,low side jacket pocket,walking pace,NB,N,247.12,175.25,320,320
+2,iphone6b,20180424,17,low side jacket pocket,walking pace,NB,N,247.12,178.26,321,318
+2,iphone6b,20180424,18,low side jacket pocket,walking pace,NB,N,450.93,325.13,577,576
+2,iphone6b,20180424,19,low side jacket pocket,walking pace,NB,N,450.93,328.71,578,575
+2,iphone6b,20180424,20,low side jacket pocket,running pace,NB,N,91.52,67.68,89,88
+2,iphone6b,20180424,21,low side jacket pocket,running pace,NB,N,91.52,75.45,81,81
+2,iphone7,20180424,1,trouser pocket,walking pace,NB,N,450.93,372.5,595,580
+2,iphone7,20180424,2,trouser pocket,walking pace,NB,N,450.93,384.89,595,591
+2,iphone7,20180424,3,trouser pocket,walking pace,NB,N,247.12,220.96,330,327
+2,iphone7,20180424,4,trouser pocket,walking pace,NB,N,247.12,208.17,333,329
+2,iphone7,20180424,5,trouser pocket,walking pace,NB,N,91.52,76.83,125,121
+2,iphone7,20180424,6,trouser pocket,walking pace,NB,N,91.52,78.03,123,123
+2,iphone7,20180424,7,trouser pocket,running pace,NB,N,450.93,513.63,426,408
+2,iphone7,20180424,8,trouser pocket,running pace,NB,N,450.93,533.64,420,414
+2,iphone7,20180424,9,trouser pocket,running pace,NB,N,247.12,356.05,236,283
+2,iphone7,20180424,10,trouser pocket,running pace,NB,N,247.12,284.22,230,224
+2,iphone7,20180424,11,trouser pocket,running pace,NB,N,91.52,108.62,85,85
+2,iphone7,20180424,12,trouser pocket,running pace,NB,N,91.52,104.11,80,77
+2,iphone7,20180424,14,low side jacket pocket,walking pace,NB,N,91.52,66.26,119,116
+2,iphone7,20180424,15,low side jacket pocket,walking pace,NB,N,91.52,67.3,119,117
+2,iphone7,20180424,16,low side jacket pocket,walking pace,NB,N,247.12,181.78,320,320
+2,iphone7,20180424,17,low side jacket pocket,walking pace,NB,N,247.12,180.38,321,321
+2,iphone7,20180424,18,low side jacket pocket,walking pace,NB,N,450.93,331.8,577,576
+2,iphone7,20180424,19,low side jacket pocket,walking pace,NB,N,450.93,327.91,578,574
+2,iphone7,20180424,20,low side jacket pocket,running pace,NB,N,91.52,80.37,89,88
+2,iphone7,20180424,21,low side jacket pocket,running pace,NB,N,91.52,71.48,81,75
+5,iphone7,20180420,1,low side jacket pocket,walking pace,NB,N,91.52,73.42,111,110
+5,iphone7,20180420,2,low side jacket pocket,walking pace,NB,N,91.52,90.13,106,104
+5,iphone7,20180420,3,low side jacket pocket,walking pace,NB,N,247.12,245.51,292,289
+5,iphone7,20180420,4,low side jacket pocket,walking pace,NB,N,247.12,246.95,293,293
+5,iphone7,20180420,5,low side jacket pocket,walking pace,NB,N,450.93,428.64,534,533
+5,iphone7,20180420,6,low side jacket pocket,walking pace,NB,N,450.93,459.65,537,540
+5,iphone7,20180420,7,low side jacket pocket,running pace,NB,N,450.93,399.9,361,359
+5,iphone7,20180420,8,low side jacket pocket,running pace,NB,N,450.93,397.24,349,345
+5,iphone7,20180420,9,low side jacket pocket,running pace,NB,N,247.12,214.38,189,184
+5,iphone7,20180420,10,low side jacket pocket,running pace,NB,N,247.12,216.2,184,184
+5,iphone7,20180420,11,low side jacket pocket,running pace,NB,N,91.52,75.22,66,66
+5,iphone7,20180420,12,low side jacket pocket,running pace,NB,N,91.52,76.43,65,64
+5,iphone7,20180420,14,hand,walking pace,B,N,91.52,89.58,109,110
+5,iphone7,20180420,15,hand,running pace,B,N,91.52,74.12,66,66
+5,iphone7,20180420,16,hand,walking pace,B,N,247.12,233.82,291,293
+5,iphone7,20180420,17,hand,walking pace,B,N,247.12,228.54,291,289
+5,iphone7,20180420,18,hand,walking pace,B,N,91.52,84.44,108,109
+5,iphone7,20180420,19,hand,running pace,B,N,91.52,73.3,64,66
+5,iphone7,20180420,21,backpack,walking pace,B,N,91.52,99.19,108,108
+5,iphone7,20180420,22,backpack,running pace,B,N,91.52,74.39,70,73
+5,iphone7,20180420,23,backpack,walking pace,B,N,247.12,231.74,290,288
+5,iphone7,20180420,24,backpack,walking pace,B,N,247.12,251.65,294,292
+5,iphone7,20180420,25,backpack,walking pace,B,N,91.52,95.12,109,107
+5,iphone7,20180420,26,backpack,running pace,B,N,91.52,64.98,69,63
+5,iphone7,20180420,28,trouser pocket,walking pace,B,N,91.52,97.32,110,109
+5,iphone7,20180420,29,trouser pocket,running pace,B,N,91.52,90.9,68,73
+5,iphone7,20180420,30,trouser pocket,walking pace,B,N,247.12,269.15,291,292
+5,iphone7,20180420,31,trouser pocket,walking pace,B,N,247.12,247.66,290,290
+5,iphone7,20180420,32,trouser pocket,walking pace,B,N,91.52,99.85,109,108
+5,iphone7,20180420,33,trouser pocket,running pace,B,N,91.52,80.38,69,67
+5,iphone7,20180420,34,hand,walking pace,NB,N,247.12,230.74,289,287
+5,iphone7,20180420,35,hand,walking pace,NB,N,247.12,233.61,290,291
+5,iphone7,20180420,36,hand,walking pace,NB,N,91.52,88.07,109,109
+5,iphone7,20180420,37,hand,walking pace,NB,N,91.52,78.58,107,100
+3,iphone7,20180419,1,trouser pocket,walking pace,B,N,91.52,76.08,117,119
+3,iphone7,20180419,2,trouser pocket,running pace,B,N,91.52,111.92,80,78
+3,iphone7,20180419,3,trouser pocket,running pace,B,N,247.12,338.53,229,237
+3,iphone7,20180419,4,trouser pocket,walking pace,B,N,247.12,186.79,300,247
+3,iphone7,20180419,6,backpack,walking pace,B,N,91.52,82.22,114,114
+3,iphone7,20180419,7,backpack,walking pace,B,N,91.52,77.77,114,113
+3,iphone7,20180419,8,backpack,walking pace,B,N,247.12,216.51,298,309
+3,iphone7,20180419,9,backpack,running pace,B,N,247.12,262.98,245,268
+3,iphone7,20180419,11,hand,walking pace,B,N,247.12,259.32,301,307
+3,iphone7,20180419,12,hand,running pace,B,N,247.12,357.02,239,241
+3,iphone7,20180419,13,hand,walking pace,B,N,91.52,93.42,115,110
+3,iphone7,20180419,14,hand,running pace,B,N,91.52,140.16,81,89
+3,iphone7,20180419,16,trouser pocket,walking pace,NB,N,91.52,65.9,116,120
+3,iphone7,20180419,17,trouser pocket,running pace,NB,N,91.52,111.43,82,84
+3,iphone7,20180419,18,trouser pocket,running pace,NB,N,247.12,293.3,233,226
+3,iphone7,20180419,19,trouser pocket,walking pace,NB,N,247.12,176.97,302,293
+3,iphone7,20180419,21,hand,walking pace,NB,N,247.12,234.51,301,305
+3,iphone7,20180419,22,hand,running pace,NB,N,247.12,337.35,238,252
+3,iphone7,20180419,23,hand,walking pace,NB,N,91.52,87.31,116,114
+3,iphone7,20180419,24,hand,running pace,NB,N,91.52,121.15,82,83
+3,iphone7,20180419,26,backpack,walking pace,NB,N,91.52,86.97,115,123
+3,iphone7,20180419,27,backpack,walking pace,NB,N,91.52,75.89,116,118
+3,iphone7,20180419,28,backpack,walking pace,NB,N,247.12,214.36,301,303
+3,iphone7,20180419,29,backpack,running pace,NB,N,247.12,223.84,246,238
+3,iphone6,20180419,1,trouser pocket,walking pace,B,N,91.52,64.92,117,109
+3,iphone6,20180419,2,trouser pocket,running pace,B,N,91.52,95.92,80,77
+3,iphone6,20180419,3,trouser pocket,running pace,B,N,247.12,325.21,229,228
+3,iphone6,20180419,4,trouser pocket,walking pace,B,N,247.12,221.09,300,278
+3,iphone6,20180419,6,backpack,walking pace,B,N,91.52,76.4,114,119
+3,iphone6,20180419,7,backpack,walking pace,B,N,91.52,78.59,114,113
+3,iphone6,20180419,8,backpack,walking pace,B,N,247.12,200.98,298,298
+3,iphone6,20180419,9,backpack,running pace,B,N,247.12,246.13,245,267
+3,iphone6,20180419,11,hand,walking pace,B,N,247.12,246.08,301,302
+3,iphone6,20180419,12,hand,running pace,B,N,247.12,340.81,239,240
+3,iphone6,20180419,13,hand,walking pace,B,N,91.52,85.29,115,105
+3,iphone6,20180419,14,hand,running pace,B,N,91.52,102.79,81,82
+3,iphone6,20180419,16,trouser pocket,walking pace,NB,N,91.52,57.79,116,110
+3,iphone6,20180419,17,trouser pocket,running pace,NB,N,91.52,97.93,82,82
+3,iphone6,20180419,18,trouser pocket,running pace,NB,N,247.12,287.85,233,233
+3,iphone6,20180419,19,trouser pocket,walking pace,NB,N,247.12,207.5,302,302
+3,iphone6,20180419,21,hand,walking pace,NB,N,247.12,218.08,301,283
+3,iphone6,20180419,22,hand,running pace,NB,N,247.12,292.78,238,220
+3,iphone6,20180419,23,hand,walking pace,NB,N,91.52,80.03,116,111
+3,iphone6,20180419,24,hand,running pace,NB,N,91.52,106.05,82,81
+3,iphone6,20180419,26,backpack,walking pace,NB,N,91.52,72.39,115,114
+3,iphone6,20180419,27,backpack,walking pace,NB,N,91.52,74.36,116,116
+3,iphone6,20180419,28,backpack,walking pace,NB,N,247.12,207.93,301,292
+3,iphone6,20180419,29,backpack,running pace,NB,N,247.12,220.9,246,213
+3,iphone8,20180419,1,trouser pocket,walking pace,B,N,91.52,77.12,117,119
+3,iphone8,20180419,2,trouser pocket,running pace,B,N,91.52,112.57,80,81
+3,iphone8,20180419,3,trouser pocket,running pace,B,N,247.12,313.86,229,228
+3,iphone8,20180419,4,trouser pocket,walking pace,B,N,247.12,222.18,300,296
+3,iphone8,20180419,7,backpack,walking pace,B,N,91.52,77.81,114,115
+3,iphone8,20180419,9,backpack,running pace,B,N,247.12,269.82,245,280
+3,iphone8,20180419,11,hand,walking pace,B,N,247.12,266.31,301,315
+3,iphone8,20180419,12,hand,running pace,B,N,247.12,350.1,239,241
+3,iphone8,20180419,13,hand,walking pace,B,N,91.52,100.46,115,119
+3,iphone8,20180419,14,hand,running pace,B,N,91.52,136.36,89,89
+3,iphone8,20180419,16,trouser pocket,walking pace,NB,N,91.52,68.77,116,117
+3,iphone8,20180419,17,trouser pocket,running pace,NB,N,91.52,105.83,82,84
+3,iphone8,20180419,18,trouser pocket,running pace,NB,N,247.12,303.23,233,234
+3,iphone8,20180419,19,trouser pocket,walking pace,NB,N,247.12,207.92,302,297
+3,iphone8,20180419,21,hand,walking pace,NB,N,247.12,233.75,301,304
+3,iphone8,20180419,22,hand,running pace,NB,N,247.12,328.79,238,240
+3,iphone8,20180419,23,hand,walking pace,NB,N,91.52,99.08,116,132
+3,iphone8,20180419,24,hand,running pace,NB,N,91.52,117.27,82,83
+3,iphone8,20180419,26,backpack,walking pace,NB,N,91.52,77.69,115,114
+3,iphone8,20180419,27,backpack,walking pace,NB,N,91.52,80.02,116,116
+3,iphone8,20180419,28,backpack,walking pace,NB,N,247.12,212.3,301,298
+3,iphone8,20180419,29,backpack,running pace,NB,N,247.12,244.81,246,241
+3,iphone7,20180417,1,backpack,walking pace,B,N,91.52,75.19,116,117
+3,iphone7,20180417,2,backpack,running pace,B,N,91.52,90.94,80,78
+3,iphone7,20180417,3,backpack,walking pace,B,N,247.12,218.37,299,319
+3,iphone7,20180417,4,backpack,running pace,B,N,247.12,230.69,239,226
+3,iphone7,20180417,5,backpack,walking pace,B,N,450.93,377.06,544,557
+3,iphone7,20180417,6,backpack,running pace,B,N,450.93,345.05,433,335
+3,iphone7,20180417,8,hand,walking pace,B,N,247.12,252.96,294,293
+3,iphone7,20180417,9,hand,running pace,B,N,247.12,361.25,237,252
+3,iphone7,20180417,10,hand,running pace,B,N,91.52,129.72,87,87
+3,iphone7,20180417,11,hand,walking pace,B,N,91.52,95.39,111,109
+3,iphone7,20180417,18,backpack,walking pace,B,N,91.52,83.54,114,119
+3,iphone7,20180417,19,backpack,walking pace,B,N,91.52,80.41,114,113
+3,iphone7,20180417,21,hand,running pace,B,N,91.52,147.3,87,90
+3,iphone7,20180417,22,hand,running pace,B,N,91.52,124.98,84,83
+3,iphone6,20180417,1,backpack,walking pace,B,N,91.52,61.93,116,113
+3,iphone6,20180417,2,backpack,running pace,B,N,91.52,77.96,80,78
+3,iphone6,20180417,3,backpack,walking pace,B,N,247.12,189.68,299,295
+3,iphone6,20180417,4,backpack,running pace,B,N,247.12,207.99,239,219
+3,iphone6,20180417,5,backpack,walking pace,B,N,450.93,359.76,544,552
+3,iphone6,20180417,6,backpack,running pace,B,N,450.93,351.25,433,353
+3,iphone6,20180417,8,hand,walking pace,B,N,247.12,248.22,294,293
+3,iphone6,20180417,9,hand,running pace,B,N,247.12,350.41,237,242
+3,iphone6,20180417,10,hand,running pace,B,N,91.52,124.78,87,88
+3,iphone6,20180417,11,hand,walking pace,B,N,91.52,87.1,111,109
+3,iphone6,20180417,18,backpack,walking pace,B,N,91.52,69.09,114,114
+3,iphone6,20180417,19,backpack,walking pace,B,N,91.52,72.88,114,114
+3,iphone6,20180417,21,hand,running pace,B,N,91.52,114.68,87,85
+3,iphone6,20180417,22,hand,running pace,B,N,91.52,100.52,84,84
+3,iphone8,20180417,1,backpack,walking pace,B,N,91.52,74.18,116,120
+3,iphone8,20180417,2,backpack,running pace,B,N,91.52,91.58,80,83
+3,iphone8,20180417,3,backpack,walking pace,B,N,247.12,192.07,299,288
+3,iphone8,20180417,4,backpack,running pace,B,N,247.12,220.55,239,216
+3,iphone8,20180417,5,backpack,walking pace,B,N,450.93,379.62,544,553
+3,iphone8,20180417,6,backpack,running pace,B,N,450.93,381.16,433,376
+3,iphone8,20180417,8,hand,walking pace,B,N,247.12,256.96,294,297
+3,iphone8,20180417,9,hand,running pace,B,N,247.12,361.67,237,245
+3,iphone8,20180417,10,hand,running pace,B,N,91.52,132.81,87,88
+3,iphone8,20180417,11,hand,walking pace,B,N,91.52,96.05,111,110
+3,iphone8,20180417,18,backpack,walking pace,B,N,91.52,88.47,114,129
+3,iphone8,20180417,19,backpack,walking pace,B,N,91.52,79.04,114,113
+3,iphone6,20180416,3,trouser pocket,walking pace,B,N,247.12,176.17,295,291
+3,iphone6,20180416,4,trouser pocket,running pace,B,N,247.12,304.77,224,212
+3,iphone6,20180416,5,trouser pocket,walking pace,B,N,450.93,326.14,532,529
+3,iphone6,20180416,6,trouser pocket,running pace,B,N,450.93,569.57,415,401
+3,iphone6,20180416,8,jacket pocket,walking pace,B,N,91.52,89.59,111,114
+3,iphone6,20180416,9,jacket pocket,running pace,B,N,91.52,75.66,79,78
+3,iphone6,20180416,10,jacket pocket,walking pace,B,N,247.12,241.65,297,282
+3,iphone6,20180416,11,jacket pocket,running pace,B,N,247.12,230.91,233,232
+3,iphone6,20180416,12,jacket pocket,running pace,B,N,450.93,424.73,421,423
+3,iphone6,20180416,13,jacket pocket,walking pace,B,N,450.93,418.47,540,539
+3,iphone6,20180416,15,low side jacket pocket,walking pace,B,N,91.52,70.88,115,114
+3,iphone6,20180416,16,low side jacket pocket,running pace,B,N,91.52,102.74,80,83
+3,iphone6,20180416,17,low side jacket pocket,walking pace,B,N,247.12,183.9,299,282
+3,iphone6,20180416,18,low side jacket pocket,running pace,B,N,247.12,261.66,236,230
+3,iphone6,20180416,19,low side jacket pocket,walking pace,B,N,450.93,339.34,544,542
+3,iphone6,20180416,20,low side jacket pocket,running pace,B,N,450.93,484.63,434,431
+3,iphone6,20180416,24,hand,walking pace,B,N,247.12,255.71,302,304
+3,iphone6,20180416,25,hand,running pace,B,N,247.12,340.44,237,231
+3,iphone6,20180416,26,hand,walking pace,B,N,450.93,468.02,543,547
+3,iphone6,20180416,27,hand,running pace,B,N,450.93,627.14,451,453
+3,iphone6,20180416,31,jacket pocket,running pace,B,N,91.52,88.42,89,91
+3,iphone6,20180416,32,jacket pocket,walking pace,B,N,91.52,83.42,116,116
+3,iphone6,20180416,33,trouser pocket,walking pace,NB,N,247.12,188.47,303,306
+3,iphone6,20180416,34,trouser pocket,running pace,NB,N,247.12,280.56,239,218
+3,iphone6,20180416,35,jacket pocket,running pace,NB,N,91.52,70.75,89,90
+3,iphone6,20180416,36,jacket pocket,walking pace,NB,N,91.52,78.43,116,115
+3,iphone6,20180416,37,trouser pocket,walking pace,NB,N,91.52,63.74,118,118
+3,iphone6,20180416,38,trouser pocket,walking pace,NB,N,91.52,62.88,117,111
+3,iphone7,20180416,3,trouser pocket,walking pace,B,N,247.12,185.21,295,277
+3,iphone7,20180416,4,trouser pocket,running pace,B,N,247.12,301.66,224,213
+3,iphone7,20180416,5,trouser pocket,walking pace,B,N,450.93,345.85,532,526
+3,iphone7,20180416,6,trouser pocket,running pace,B,N,450.93,562.6,415,403
+3,iphone7,20180416,8,jacket pocket,walking pace,B,N,91.52,97.24,111,118
+3,iphone7,20180416,9,jacket pocket,running pace,B,N,91.52,82.07,79,79
+3,iphone7,20180416,10,jacket pocket,walking pace,B,N,247.12,244.44,297,295
+3,iphone7,20180416,11,jacket pocket,running pace,B,N,247.12,244.0,233,233
+3,iphone7,20180416,12,jacket pocket,running pace,B,N,450.93,433.28,421,422
+3,iphone7,20180416,13,jacket pocket,walking pace,B,N,450.93,445.13,540,536
+3,iphone7,20180416,15,low side jacket pocket,walking pace,B,N,91.52,71.57,115,114
+3,iphone7,20180416,16,low side jacket pocket,running pace,B,N,91.52,100.77,80,81
+3,iphone7,20180416,17,low side jacket pocket,walking pace,B,N,247.12,198.97,299,299
+3,iphone7,20180416,18,low side jacket pocket,running pace,B,N,247.12,280.07,236,230
+3,iphone7,20180416,19,low side jacket pocket,walking pace,B,N,450.93,346.13,544,547
+3,iphone7,20180416,20,low side jacket pocket,running pace,B,N,450.93,518.44,434,431
+3,iphone7,20180416,22,hand,walking pace,B,N,91.52,108.76,114,130
+3,iphone7,20180416,23,hand,running pace,B,N,91.52,137.62,78,81
+3,iphone7,20180416,24,hand,walking pace,B,N,247.12,262.72,302,303
+3,iphone7,20180416,26,hand,walking pace,B,N,450.93,481.61,543,556
+3,iphone7,20180416,27,hand,running pace,B,N,450.93,651.69,451,453
+3,iphone7,20180416,29,trouser pocket,walking pace,B,N,247.12,81.26,299,131
+3,iphone7,20180416,30,trouser pocket,running pace,B,N,247.12,304.06,241,225
+3,iphone7,20180416,31,jacket pocket,running pace,B,N,91.52,95.34,90,90
+3,iphone7,20180416,32,jacket pocket,walking pace,B,N,91.52,92.82,117,117
+3,iphone8,20180416,1,trouser pocket,walking pace,B,N,91.52,70.45,113,112
+3,iphone8,20180416,2,trouser pocket,running pace,B,N,91.52,107.89,78,77
+3,iphone8,20180416,3,trouser pocket,walking pace,B,N,247.12,191.23,295,294
+3,iphone8,20180416,4,trouser pocket,running pace,B,N,247.12,292.11,224,214
+3,iphone8,20180416,5,trouser pocket,walking pace,B,N,450.93,374.24,532,528
+3,iphone8,20180416,6,trouser pocket,running pace,B,N,450.93,556.13,415,406
+3,iphone8,20180416,8,jacket pocket,walking pace,B,N,91.52,98.26,111,118
+3,iphone8,20180416,9,jacket pocket,running pace,B,N,91.52,100.74,79,86
+3,iphone8,20180416,10,jacket pocket,walking pace,B,N,247.12,249.54,297,294
+3,iphone8,20180416,11,jacket pocket,running pace,B,N,247.12,219.79,233,213
+3,iphone8,20180416,12,jacket pocket,running pace,B,N,450.93,424.64,421,414
+3,iphone8,20180416,13,jacket pocket,walking pace,B,N,450.93,411.65,540,541
+3,iphone8,20180416,15,low side jacket pocket,walking pace,B,N,91.52,80.7,115,121
+3,iphone8,20180416,16,low side jacket pocket,running pace,B,N,91.52,89.78,80,79
+3,iphone8,20180416,17,low side jacket pocket,walking pace,B,N,247.12,205.25,299,294
+3,iphone8,20180416,18,low side jacket pocket,running pace,B,N,247.12,273.5,236,234
+3,iphone8,20180416,19,low side jacket pocket,walking pace,B,N,450.93,362.11,544,542
+3,iphone8,20180416,20,low side jacket pocket,running pace,B,N,450.93,478.35,434,428
+3,iphone8,20180416,22,hand,walking pace,B,N,91.52,98.97,114,118
+3,iphone8,20180416,23,hand,running pace,B,N,91.52,144.88,78,90
+3,iphone8,20180416,24,hand,walking pace,B,N,247.12,262.39,302,303
+3,iphone8,20180416,25,hand,running pace,B,N,247.12,373.43,237,237
+3,iphone8,20180416,26,hand,walking pace,B,N,450.93,472.8,543,551
+3,iphone8,20180416,27,hand,running pace,B,N,450.93,654.15,451,460
+3,iphone8,20180416,29,trouser pocket,walking pace,B,N,247.12,233.95,299,297
+3,iphone8,20180416,30,trouser pocket,running pace,B,N,247.12,293.58,241,231
+3,iphone8,20180416,31,jacket pocket,running pace,B,N,91.52,100.5,89,95
+3,iphone8,20180416,32,jacket pocket,walking pace,B,N,91.52,79.55,116,126
+3,iphone8,20180416,33,trouser pocket,walking pace,NB,N,247.12,211.15,303,302
+3,iphone8,20180416,34,trouser pocket,running pace,NB,N,247.12,282.88,239,227
+3,iphone8,20180416,35,jacket pocket,running pace,NB,N,91.52,81.65,89,85
+3,iphone8,20180416,36,jacket pocket,walking pace,NB,N,91.52,71.67,115,115
+3,iphone8,20180416,37,trouser pocket,walking pace,NB,N,91.52,86.78,118,118
+3,iphone8,20180416,38,trouser pocket,walking pace,NB,N,91.52,88.11,117,125
+3,iphone7,20180413,1,low side jacket pocket,walking pace,NB,N,91.52,65.08,111,111
+3,iphone7,20180413,2,low side jacket pocket,walking pace,NB,N,91.52,63.56,111,110
+3,iphone7,20180413,3,low side jacket pocket,walking pace,NB,N,247.12,163.46,293,289
+3,iphone7,20180413,4,low side jacket pocket,walking pace,NB,N,247.12,175.34,293,305
+3,iphone7,20180413,5,low side jacket pocket,walking pace,NB,N,450.93,304.75,534,535
+3,iphone7,20180413,6,low side jacket pocket,walking pace,NB,N,450.93,310.22,533,535
+3,iphone7,20180413,7,low side jacket pocket,running pace,NB,N,91.52,93.42,85,84
+3,iphone7,20180413,8,low side jacket pocket,running pace,NB,N,91.52,100.54,93,93
+3,iphone7,20180413,9,low side jacket pocket,running pace,NB,N,247.12,253.34,228,228
+3,iphone7,20180413,10,low side jacket pocket,running pace,NB,N,247.12,249.93,235,222
+3,iphone7,20180413,11,low side jacket pocket,running pace,NB,N,450.93,475.44,422,429
+3,iphone7,20180413,12,low side jacket pocket,running pace,NB,N,450.93,480.68,428,423
+3,iphone7,20180413,13,trouser pocket,walking pace,NB,N,450.93,316.64,535,532
+3,iphone7,20180413,14,trouser pocket,running pace,NB,N,91.52,103.22,82,78
+3,iphone7,20180413,15,trouser pocket,running pace,NB,N,247.12,289.37,241,229
+3,iphone7,20180413,16,trouser pocket,walking pace,NB,N,247.12,169.73,298,288
+3,iphone6,20180413,1,low side jacket pocket,walking pace,NB,N,91.52,66.09,111,108
+3,iphone6,20180413,2,low side jacket pocket,walking pace,NB,N,91.52,61.89,111,114
+3,iphone6,20180413,3,low side jacket pocket,walking pace,NB,N,247.12,161.61,293,294
+3,iphone6,20180413,4,low side jacket pocket,walking pace,NB,N,247.12,152.88,293,274
+3,iphone6,20180413,5,low side jacket pocket,walking pace,NB,N,450.93,293.9,534,534
+3,iphone6,20180413,6,low side jacket pocket,walking pace,NB,N,450.93,305.37,533,534
+3,iphone6,20180413,7,low side jacket pocket,running pace,NB,N,91.52,84.02,85,86
+3,iphone6,20180413,8,low side jacket pocket,running pace,NB,N,91.52,74.0,83,84
+3,iphone6,20180413,9,low side jacket pocket,running pace,NB,N,247.12,230.85,228,228
+3,iphone6,20180413,10,low side jacket pocket,running pace,NB,N,247.12,240.97,235,225
+3,iphone6,20180413,11,low side jacket pocket,running pace,NB,N,450.93,449.34,422,421
+3,iphone6,20180413,12,low side jacket pocket,running pace,NB,N,450.93,463.57,428,423
+3,iphone6,20180413,14,trouser pocket,walking pace,NB,N,450.93,346.02,535,535
+3,iphone6,20180413,15,trouser pocket,running pace,NB,N,91.52,98.52,82,81
+3,iphone6,20180413,16,trouser pocket,running pace,NB,N,247.12,293.84,241,237
+3,iphone6,20180413,17,trouser pocket,walking pace,NB,N,247.12,187.75,298,292
+3,iphone8,20180413,1,low side jacket pocket,walking pace,NB,N,91.52,67.07,111,108
+3,iphone8,20180413,2,low side jacket pocket,walking pace,NB,N,91.52,65.88,111,111
+3,iphone8,20180413,3,low side jacket pocket,walking pace,NB,N,247.12,173.72,293,291
+3,iphone8,20180413,4,low side jacket pocket,walking pace,NB,N,247.12,187.84,293,291
+3,iphone8,20180413,5,low side jacket pocket,walking pace,NB,N,450.93,332.45,534,534
+3,iphone8,20180413,6,low side jacket pocket,walking pace,NB,N,450.93,328.25,533,533
+3,iphone8,20180413,7,low side jacket pocket,running pace,NB,N,91.52,86.11,85,83
+3,iphone8,20180413,8,low side jacket pocket,running pace,NB,N,91.52,88.53,83,84
+3,iphone8,20180413,9,low side jacket pocket,running pace,NB,N,247.12,244.91,228,232
+3,iphone8,20180413,10,low side jacket pocket,running pace,NB,N,247.12,231.86,235,223
+3,iphone8,20180413,11,low side jacket pocket,running pace,NB,N,450.93,444.23,422,424
+3,iphone8,20180413,12,low side jacket pocket,running pace,NB,N,450.93,454.41,428,439
+3,iphone8,20180413,14,trouser pocket,walking pace,NB,N,450.93,394.93,535,535
+3,iphone8,20180413,15,trouser pocket,running pace,NB,N,91.52,101.3,82,81
+3,iphone8,20180413,16,trouser pocket,running pace,NB,N,247.12,279.64,241,231
+3,iphone8,20180413,17,trouser pocket,walking pace,NB,N,247.12,248.26,298,293
+3,iphone7,20180409,1,backpack,walking pace,NB,N,91.52,89.3,123,130
+3,iphone7,20180409,2,backpack,walking pace,NB,N,91.52,71.87,106,106
+3,iphone7,20180409,3,backpack,running pace,NB,N,91.52,81.22,90,90
+3,iphone7,20180409,4,backpack,running pace,NB,N,91.52,85.94,75,100
+3,iphone6,20180409,1,backpack,walking pace,NB,N,91.52,81.41,123,122
+3,iphone6,20180409,2,backpack,walking pace,NB,N,91.52,64.13,106,107
+3,iphone6,20180409,3,backpack,running pace,NB,N,91.52,77.0,92,88
+3,iphone6,20180409,4,backpack,running pace,NB,N,91.52,63.38,75,76
+3,iphone6,20180409,5,backpack,walking pace,NB,N,91.52,64.94,118,118
+3,iphone6,20180409,11,backpack,walking pace,NB,N,91.52,62.76,107,107
+3,iphone6,20180409,6,backpack,walking pace,NB,N,247.12,188.89,304,303
+3,iphone6,20180409,7,backpack,walking pace,NB,N,247.12,180.08,291,291
+3,iphone6,20180409,8,backpack,running pace,NB,N,247.12,214.14,248,236
+3,iphone6,20180409,9,backpack,running pace,NB,N,247.12,188.87,228,211
+3,iphone6,20180409,13,backpack,walking pace,NB,N,91.52,73.91,114,115
+3,iphone6,20180409,15,backpack,running pace,NB,N,91.52,82.71,90,90
+3,iphone8,20180409,2,hand,walking pace,NB,Z,91.52,137.87,106,106
+3,iphone8,20180409,3,hand,running pace,NB,S,91.52,65.67,92,72
+3,iphone8,20180409,4,hand,running pace,NB,Z,91.52,176.28,75,84
+3,iphone8,20180409,5,hand,walking pace,NB,S,91.52,95.52,118,123
+3,iphone8,20180409,11,hand,walking pace,NB,Z,91.52,223.11,107,126
+3,iphone8,20180409,6,hand,walking pace,NB,S,247.12,212.27,304,307
+3,iphone8,20180409,7,hand,walking pace,NB,Z,247.12,362.06,291,299
+3,iphone8,20180409,8,hand,running pace,NB,S,247.12,173.18,248,211
+3,iphone8,20180409,9,hand,running pace,NB,Z,247.12,463.9,228,230
+3,iphone8,20180409,13,hand,walking pace,NB,N,91.52,91.04,114,121
+3,iphone8,20180409,14,hand,running pace,NB,N,91.52,146.43,90,100
+5,iphone7,20180409,1,hand,walking pace,NB,N,91.52,84.2,109,108
+5,iphone7,20180409,2,hand,running pace,NB,N,91.52,78.1,69,68
+5,iphone7,20180409,3,hand,walking pace,NB,N,247.12,228.91,289,291
+5,iphone7,20180409,4,hand,running pace,NB,N,247.12,221.45,201,203
+5,iphone7,20180409,5,hand,walking pace,NB,S,91.52,94.49,110,111
+5,iphone7,20180409,6,hand,walking pace,NB,Z,91.52,140.48,95,109
+5,iphone7,20180409,7,hand,running pace,NB,S,91.52,68.39,72,70
+5,iphone7,20180409,8,hand,running pace,NB,Z,91.52,98.39,57,55
+5,iphone7,20180409,10,hand,walking pace,NB,S,247.12,249.16,294,294
+5,iphone7,20180409,11,hand,walking pace,NB,Z,247.12,284.82,275,273
+5,iphone7,20180409,12,hand,running pace,NB,S,247.12,203.06,206,204
+5,iphone7,20180409,13,hand,running pace,NB,Z,247.12,252.7,167,163
+5,iphone7,20180409,15,trouser pocket,walking pace,B,N,91.52,74.95,109,107
+5,iphone7,20180409,16,trouser pocket,running pace,B,N,91.52,82.61,67,67
+5,iphone7,20180409,17,trouser pocket,walking pace,B,N,247.12,202.76,290,290
+5,iphone7,20180409,18,trouser pocket,running pace,B,N,247.12,235.21,192,191
+5,iphone7,20180409,19,trouser pocket,running pace,B,N,450.93,452.58,343,345
+5,iphone7,20180409,20,trouser pocket,walking pace,B,N,450.93,365.27,530,529
+5,iphone6,20180409,1,hand,walking pace,NB,N,91.52,74.7,109,110
+5,iphone6,20180409,2,hand,running pace,NB,N,91.52,67.18,69,69
+5,iphone6,20180409,3,hand,walking pace,NB,N,247.12,219.55,289,287
+5,iphone6,20180409,4,hand,running pace,NB,N,247.12,205.96,201,196
+5,iphone6,20180409,5,hand,walking pace,NB,S,91.52,83.41,110,110
+5,iphone6,20180409,6,hand,walking pace,NB,Z,91.52,143.98,95,118
+5,iphone6,20180409,7,hand,running pace,NB,S,91.52,55.66,72,66
+5,iphone6,20180409,8,hand,running pace,NB,Z,91.52,88.03,57,58
+5,iphone6,20180409,10,hand,walking pace,NB,S,247.12,242.6,294,289
+5,iphone6,20180409,11,hand,walking pace,NB,Z,247.12,275.68,275,264
+5,iphone6,20180409,12,hand,running pace,NB,S,247.12,188.47,206,190
+5,iphone6,20180409,13,hand,running pace,NB,Z,247.12,252.8,167,168
+5,iphone6,20180409,15,trouser pocket,walking pace,B,N,91.52,70.88,109,108
+5,iphone6,20180409,16,trouser pocket,running pace,B,N,91.52,62.5,67,66
+5,iphone6,20180409,17,trouser pocket,walking pace,B,N,247.12,190.84,290,291
+5,iphone6,20180409,18,trouser pocket,running pace,B,N,247.12,231.74,192,186
+5,iphone6,20180409,19,trouser pocket,running pace,B,N,450.93,426.51,343,341
+5,iphone6,20180409,20,trouser pocket,walking pace,B,N,450.93,360.2,530,528
+4,iphone7,20180406,1,hand,walking pace,NB,N,91.52,87.88,114,112
+4,iphone7,20180406,2,hand,walking pace,NB,N,91.52,88.39,110,110
+4,iphone7,20180406,3,hand,walking pace,NB,N,247.12,244.25,306,304
+4,iphone7,20180406,4,hand,walking pace,NB,N,247.12,252.72,318,315
+4,iphone7,20180406,5,hand,walking pace,NB,N,450.93,439.28,559,557
+4,iphone7,20180406,6,hand,walking pace,NB,N,450.93,434.11,555,550
+4,iphone7,20180406,7,hand,running pace,NB,N,91.52,85.47,76,78
+4,iphone7,20180406,8,hand,running pace,NB,N,91.52,86.01,70,75
+4,iphone7,20180406,9,hand,running pace,NB,N,247.12,257.53,208,208
+4,iphone7,20180406,10,hand,running pace,NB,N,247.12,262.83,218,218
+4,iphone7,20180406,11,hand,running pace,NB,N,450.93,458.42,397,400
+4,iphone7,20180406,12,hand,running pace,NB,N,450.93,468.14,402,407
+4,iphone7,20180406,14,backpack,walking pace,NB,N,247.12,219.24,314,316
+4,iphone7,20180406,15,backpack,running pace,NB,N,247.12,194.22,225,213
+4,iphone7,20180406,18,hand,walking pace,NB,S,91.52,85.61,113,112
+4,iphone7,20180406,19,hand,walking pace,NB,Z,91.52,109.77,98,107
+4,iphone7,20180406,20,hand,running pace,NB,S,91.52,61.64,79,73
+4,iphone7,20180406,21,hand,running pace,NB,Z,91.52,130.99,61,61
+4,iphone7,20180406,23,hand,walking pace,NB,S,247.12,245.13,308,305
+4,iphone7,20180406,24,hand,walking pace,NB,Z,247.12,290.9,273,272
+4,iphone7,20180406,25,hand,running pace,NB,S,247.12,210.96,234,246
+4,iphone7,20180406,26,hand,running pace,NB,Z,247.12,406.29,186,201
+4,iphone6,20180406,1,hand,walking pace,NB,N,91.52,84.72,114,112
+4,iphone6,20180406,2,hand,walking pace,NB,N,91.52,78.79,110,109
+4,iphone6,20180406,3,hand,walking pace,NB,N,247.12,237.15,306,305
+4,iphone6,20180406,4,hand,walking pace,NB,N,247.12,246.64,318,315
+4,iphone6,20180406,5,hand,walking pace,NB,N,450.93,430.43,559,557
+4,iphone6,20180406,6,hand,walking pace,NB,N,450.93,429.67,555,548
+4,iphone6,20180406,7,hand,running pace,NB,N,91.52,80.95,76,77
+4,iphone6,20180406,8,hand,running pace,NB,N,91.52,82.15,70,70
+4,iphone6,20180406,9,hand,running pace,NB,N,247.12,256.16,208,213
+4,iphone6,20180406,10,hand,running pace,NB,N,247.12,254.77,218,219
+4,iphone6,20180406,11,hand,running pace,NB,N,450.93,445.22,397,388
+4,iphone6,20180406,12,hand,running pace,NB,N,450.93,462.7,402,406
+4,iphone6,20180406,14,backpack,walking pace,NB,N,247.12,213.37,314,315
+4,iphone6,20180406,15,backpack,running pace,NB,N,247.12,192.45,225,220
+4,iphone6,20180406,18,hand,walking pace,NB,S,91.52,87.14,113,113
+4,iphone6,20180406,19,hand,walking pace,NB,Z,91.52,94.11,98,100
+4,iphone6,20180406,20,hand,running pace,NB,S,91.52,61.16,79,70
+4,iphone6,20180406,21,hand,running pace,NB,Z,91.52,94.36,61,60
+4,iphone6,20180406,23,hand,walking pace,NB,S,247.12,234.22,308,306
+4,iphone6,20180406,24,hand,walking pace,NB,Z,247.12,315.93,273,274
+4,iphone6,20180406,25,hand,running pace,NB,S,247.12,182.86,234,209
+4,iphone6,20180406,26,hand,running pace,NB,Z,247.12,414.4,186,197
+3,iphone6,20180406,1,hand,walking pace,NB,S,91.52,81.25,114,112
+3,iphone6,20180406,2,hand,walking pace,NB,Z,91.52,118.63,104,108
+3,iphone6,20180406,3,hand,running pace,NB,S,91.52,66.98,82,83
+3,iphone6,20180406,4,hand,running pace,NB,Z,91.52,116.0,65,70
+3,iphone6,20180406,6,hand,walking pace,NB,S,247.12,231.92,295,290
+3,iphone6,20180406,7,hand,walking pace,NB,Z,247.12,308.44,277,274
+3,iphone6,20180406,8,hand,running pace,NB,S,247.12,188.84,226,210
+3,iphone6,20180406,9,hand,running pace,NB,Z,247.12,396.4,206,206
+3,iphone7,20180406,1,hand,walking pace,NB,S,91.52,87.98,114,115
+3,iphone7,20180406,2,hand,walking pace,NB,Z,91.52,129.73,104,112
+3,iphone7,20180406,3,hand,running pace,NB,S,91.52,64.32,82,76
+3,iphone7,20180406,4,hand,running pace,NB,Z,91.52,158.95,65,73
+3,iphone7,20180406,6,hand,walking pace,NB,S,247.12,238.44,295,297
+3,iphone7,20180406,7,hand,walking pace,NB,Z,247.12,304.81,277,282
+3,iphone7,20180406,8,hand,running pace,NB,S,247.12,189.29,226,202
+3,iphone7,20180406,9,hand,running pace,NB,Z,247.12,410.18,206,213
+1,iphone8,20180404,1,trouser pocket,walking pace,NB,N,91.52,75.12,121,124
+1,iphone8,20180404,2,trouser pocket,walking pace,NB,N,91.52,72.0,120,123
+1,iphone8,20180404,3,trouser pocket,walking pace,NB,N,247.12,189.68,324,323
+1,iphone8,20180404,4,trouser pocket,walking pace,NB,N,247.12,189.42,330,332
+1,iphone8,20180404,5,trouser pocket,walking pace,NB,N,450.93,345.69,595,595
+1,iphone8,20180404,6,trouser pocket,walking pace,NB,N,450.93,339.7,583,584
+1,iphone8,20180404,7,trouser pocket,running pace,NB,N,91.52,97.37,97,89
+1,iphone8,20180404,8,trouser pocket,running pace,NB,N,91.52,134.98,116,116
+1,iphone8,20180404,9,trouser pocket,running pace,NB,N,247.12,295.2,256,253
+1,iphone8,20180404,10,trouser pocket,running pace,NB,N,247.12,294.35,271,255
+1,iphone8,20180404,11,trouser pocket,running pace,NB,N,450.93,561.67,480,482
+1,iphone8,20180404,12,trouser pocket,running pace,NB,N,450.93,540.85,468,460
+1,iphone7,20180404,1,jacket pocket,walking pace,NB,N,91.52,75.49,121,124
+1,iphone7,20180404,2,jacket pocket,walking pace,NB,N,91.52,73.98,120,121
+1,iphone7,20180404,3,jacket pocket,walking pace,NB,N,247.12,198.49,324,321
+1,iphone7,20180404,4,jacket pocket,walking pace,NB,N,247.12,197.41,330,330
+1,iphone7,20180404,5,jacket pocket,walking pace,NB,N,450.93,356.8,595,595
+1,iphone7,20180404,6,jacket pocket,walking pace,NB,N,450.93,356.12,583,583
+1,iphone7,20180404,9,jacket pocket,running pace,NB,N,247.12,230.84,256,253
+1,iphone7,20180404,10,jacket pocket,running pace,NB,N,247.12,253.98,271,269
+1,iphone7,20180404,11,jacket pocket,running pace,NB,N,450.93,453.76,480,478
+1,iphone7,20180404,12,jacket pocket,running pace,NB,N,450.93,457.45,468,473
+1,iphone6,20180404,1,jacket pocket,walking pace,NB,N,91.52,82.38,121,120
+1,iphone6,20180404,2,jacket pocket,walking pace,NB,N,91.52,75.69,120,120
+1,iphone6,20180404,3,jacket pocket,walking pace,NB,N,247.12,222.39,324,324
+1,iphone6,20180404,4,jacket pocket,walking pace,NB,N,247.12,225.89,330,325
+1,iphone6,20180404,5,jacket pocket,walking pace,NB,N,450.93,382.84,595,597
+1,iphone6,20180404,6,jacket pocket,walking pace,NB,N,450.93,390.38,583,583
+1,iphone6,20180404,9,jacket pocket,running pace,NB,N,247.12,230.1,256,258
+1,iphone6,20180404,10,jacket pocket,running pace,NB,N,247.12,231.02,271,260
+1,iphone6,20180404,11,jacket pocket,running pace,NB,N,450.93,422.52,480,479
+1,iphone6,20180404,12,jacket pocket,running pace,NB,N,450.93,435.43,468,467
+5,iphone7,20180329,1,hand,walking pace,NB,N,91.52,89.68,112,113
+5,iphone7,20180329,2,hand,walking pace,NB,N,91.52,88.28,109,110
+5,iphone7,20180329,3,hand,walking pace,NB,N,247.12,235.31,296,294
+5,iphone7,20180329,4,hand,walking pace,NB,N,247.12,238.38,301,303
+5,iphone7,20180329,5,hand,walking pace,NB,N,450.93,434.85,541,541
+5,iphone7,20180329,6,hand,walking pace,NB,N,450.93,436.35,547,546
+5,iphone7,20180329,7,hand,running pace,NB,N,450.93,403.22,368,368
+5,iphone7,20180329,8,hand,running pace,NB,N,450.93,405.1,358,360
+5,iphone7,20180329,9,hand,running pace,NB,N,247.12,211.46,187,187
+5,iphone7,20180329,10,hand,running pace,NB,N,247.12,215.06,196,194
+5,iphone7,20180329,11,hand,running pace,NB,N,91.52,79.3,68,72
+5,iphone7,20180329,12,hand,running pace,NB,N,91.52,75.59,66,71
+5,iphone7,20180329,14,backpack,running pace,NB,N,247.12,218.6,193,192
+5,iphone7,20180329,15,backpack,walking pace,NB,N,247.12,225.77,298,297
+5,iphone6,20180329,1,hand,walking pace,NB,N,91.52,83.8,112,111
+5,iphone6,20180329,2,hand,walking pace,NB,N,91.52,79.38,109,110
+5,iphone6,20180329,3,hand,walking pace,NB,N,247.12,219.84,296,295
+5,iphone6,20180329,4,hand,walking pace,NB,N,247.12,228.03,301,299
+5,iphone6,20180329,5,hand,walking pace,NB,N,450.93,418.96,541,539
+5,iphone6,20180329,6,hand,walking pace,NB,N,450.93,425.06,547,547
+5,iphone6,20180329,7,hand,running pace,NB,N,450.93,383.96,368,354
+5,iphone6,20180329,8,hand,running pace,NB,N,450.93,395.96,358,352
+5,iphone6,20180329,9,hand,running pace,NB,N,247.12,203.14,187,180
+5,iphone6,20180329,10,hand,running pace,NB,N,247.12,203.73,196,182
+5,iphone6,20180329,11,hand,running pace,NB,N,91.52,76.93,68,73
+5,iphone6,20180329,12,hand,running pace,NB,N,91.52,70.75,66,65
+5,iphone6,20180329,14,backpack,running pace,NB,N,247.12,208.23,193,180
+5,iphone6,20180329,15,backpack,walking pace,NB,N,247.12,226.38,298,289
+3,iphone7,20180329,1,hand,walking pace,NB,N,91.52,90.59,113,119
+3,iphone7,20180329,2,hand,walking pace,NB,N,91.52,87.17,113,112
+3,iphone7,20180329,3,hand,walking pace,NB,N,247.12,229.89,291,293
+3,iphone7,20180329,4,hand,walking pace,NB,N,247.12,240.13,294,298
+3,iphone7,20180329,5,hand,walking pace,NB,N,450.93,429.48,533,538
+3,iphone7,20180329,6,hand,walking pace,NB,N,450.93,431.25,536,535
+3,iphone7,20180329,7,hand,running pace,NB,N,91.52,143.95,82,82
+3,iphone7,20180329,8,hand,running pace,NB,N,91.52,129.32,79,79
+3,iphone7,20180329,9,hand,running pace,NB,N,247.12,344.1,224,226
+3,iphone7,20180329,10,hand,running pace,NB,N,247.12,357.95,222,231
+3,iphone7,20180329,11,hand,running pace,NB,N,450.93,585.24,403,411
+3,iphone7,20180329,12,hand,running pace,NB,N,450.93,615.64,414,419
+3,iphone7,20180329,14,trouser pocket,walking pace,NB,N,247.12,176.14,298,296
+3,iphone7,20180329,15,trouser pocket,running pace,NB,N,247.12,248.53,231,214
+3,iphone8,20180329,1,backpack,walking pace,NB,N,91.52,82.64,113,113
+3,iphone8,20180329,2,backpack,walking pace,NB,N,91.52,73.68,113,113
+3,iphone8,20180329,3,backpack,walking pace,NB,N,247.12,184.56,291,292
+3,iphone8,20180329,4,backpack,walking pace,NB,N,247.12,205.63,294,309
+3,iphone8,20180329,5,backpack,walking pace,NB,N,450.93,367.12,533,562
+3,iphone8,20180329,6,backpack,walking pace,NB,N,450.93,350.45,536,536
+3,iphone8,20180329,7,backpack,running pace,NB,N,91.52,75.57,82,81
+3,iphone8,20180329,8,backpack,running pace,NB,N,91.52,82.71,79,87
+3,iphone8,20180329,9,backpack,running pace,NB,N,247.12,212.33,224,222
+3,iphone8,20180329,10,backpack,running pace,NB,N,247.12,206.26,222,210
+3,iphone8,20180329,11,backpack,running pace,NB,N,450.93,402.93,403,411
+3,iphone8,20180329,12,backpack,running pace,NB,N,450.93,408.89,414,414
+3,iphone8,20180329,14,hand,walking pace,NB,N,247.12,228.98,298,290
+3,iphone8,20180329,15,hand,running pace,NB,N,247.12,404.37,231,248
+3,iphone6,20180329,1,hand,walking pace,NB,N,91.52,84.53,113,115
+3,iphone6,20180329,2,hand,walking pace,NB,N,91.52,82.03,113,113
+3,iphone6,20180329,3,hand,walking pace,NB,N,247.12,222.54,291,287
+3,iphone6,20180329,4,hand,walking pace,NB,N,247.12,233.08,294,295
+3,iphone6,20180329,5,hand,walking pace,NB,N,450.93,416.08,533,527
+3,iphone6,20180329,6,hand,walking pace,NB,N,450.93,426.47,536,535
+3,iphone6,20180329,7,hand,running pace,NB,N,91.52,139.11,82,81
+3,iphone6,20180329,8,hand,running pace,NB,N,91.52,124.04,79,82
+3,iphone6,20180329,9,hand,running pace,NB,N,247.12,332.53,224,224
+3,iphone6,20180329,10,hand,running pace,NB,N,247.12,341.39,222,226
+3,iphone6,20180329,11,hand,running pace,NB,N,450.93,566.17,403,405
+3,iphone6,20180329,12,hand,running pace,NB,N,450.93,589.67,414,415
+3,iphone6,20180329,14,trouser pocket,walking pace,NB,N,247.12,168.29,298,297
+3,iphone6,20180329,15,trouser pocket,running pace,NB,N,247.12,255.09,231,217
+5,iphone7,20180327,1,trouser pocket,walking pace,NB,N,247.12,204.0,299,298
+5,iphone7,20180327,2,trouser pocket,running pace,NB,N,247.12,238.0,215,199
+5,iphone7,20180327,3,trouser pocket,walking pace,NB,N,450.93,385.54,535,537
+5,iphone7,20180327,4,trouser pocket,running pace,NB,N,450.93,463.13,380,379
+5,iphone7,20180327,6,jacket pocket,running pace,NB,N,91.52,77.61,71,71
+5,iphone7,20180327,7,jacket pocket,walking pace,NB,N,91.52,93.47,106,107
+5,iphone7,20180327,8,jacket pocket,running pace,NB,N,247.12,218.04,202,198
+5,iphone7,20180327,9,jacket pocket,walking pace,NB,N,247.12,251.31,291,291
+5,iphone7,20180327,11,backpack,walking pace,NB,N,91.52,87.18,109,109
+5,iphone7,20180327,12,backpack,walking pace,NB,N,91.52,94.77,107,106
+5,iphone7,20180327,13,backpack,walking pace,NB,N,247.12,250.9,296,305
+5,iphone7,20180327,14,backpack,walking pace,NB,N,247.12,239.76,295,292
+5,iphone7,20180327,15,backpack,walking pace,NB,N,450.93,477.12,546,546
+5,iphone7,20180327,16,backpack,walking pace,NB,N,450.93,452.4,542,542
+5,iphone7,20180327,17,backpack,running pace,NB,N,91.52,71.8,76,75
+5,iphone7,20180327,18,backpack,running pace,NB,N,91.52,72.36,72,74
+5,iphone7,20180327,19,backpack,running pace,NB,N,247.12,177.5,204,205
+5,iphone7,20180327,20,backpack,running pace,NB,N,247.12,204.56,209,215
+5,iphone7,20180327,21,backpack,running pace,NB,N,450.93,381.62,379,374
+5,iphone7,20180327,22,backpack,running pace,NB,N,450.93,425.96,375,414
+5,iphone7,20180327,24,backpack,walking pace,NB,N,91.52,91.04,109,111
+5,iphone7,20180327,25,backpack,walking pace,NB,N,91.52,81.19,107,107
+5,iphone6,20180327,1,trouser pocket,walking pace,NB,N,247.12,199.72,299,299
+5,iphone6,20180327,2,trouser pocket,running pace,NB,N,247.12,257.33,215,215
+5,iphone6,20180327,3,trouser pocket,walking pace,NB,N,450.93,380.92,535,537
+5,iphone6,20180327,4,trouser pocket,running pace,NB,N,450.93,476.2,380,378
+5,iphone6,20180327,6,jacket pocket,running pace,NB,N,91.52,69.21,71,70
+5,iphone6,20180327,7,jacket pocket,running pace,NB,N,91.52,82.42,106,107
+5,iphone6,20180327,8,jacket pocket,running pace,NB,N,247.12,203.89,202,198
+5,iphone6,20180327,9,jacket pocket,walking pace,NB,N,247.12,236.79,291,285
+5,iphone6,20180327,11,backpack,walking pace,NB,N,91.52,88.08,109,110
+5,iphone6,20180327,12,backpack,walking pace,NB,N,91.52,94.97,107,108
+5,iphone6,20180327,13,backpack,walking pace,NB,N,247.12,237.79,296,298
+5,iphone6,20180327,14,backpack,walking pace,NB,N,247.12,223.86,295,288
+5,iphone6,20180327,15,backpack,walking pace,NB,N,450.93,482.26,546,547
+5,iphone6,20180327,16,backpack,walking pace,NB,N,450.93,449.21,542,539
+5,iphone6,20180327,17,backpack,running pace,NB,N,91.52,65.42,76,77
+5,iphone6,20180327,18,backpack,running pace,NB,N,91.52,66.27,72,73
+5,iphone6,20180327,19,backpack,running pace,NB,N,247.12,186.18,204,207
+5,iphone6,20180327,20,backpack,running pace,NB,N,247.12,188.01,209,219
+5,iphone6,20180327,21,backpack,running pace,NB,N,450.93,322.69,379,353
+5,iphone6,20180327,22,backpack,running pace,NB,N,450.93,339.76,375,363
+5,iphone6,20180327,23,backpack,walking pace,NB,N,91.52,92.11,109,108
+5,iphone6,20180327,24,backpack,walking pace,NB,N,91.52,65.7,107,108
+4,iphone7,20180326,1,trouser pocket,walking pace,NB,N,91.52,68.01,118,117
+4,iphone7,20180326,2,trouser pocket,walking pace,NB,N,91.52,69.42,117,115
+4,iphone7,20180326,3,trouser pocket,walking pace,NB,N,247.12,189.37,311,310
+4,iphone7,20180326,4,trouser pocket,running pace,NB,N,247.12,262.22,253,242
+4,iphone7,20180326,6,jacket pocket,walking pace,NB,N,91.52,98.5,119,120
+4,iphone7,20180326,7,jacket pocket,walking pace,NB,N,91.52,96.15,119,118
+4,iphone7,20180326,8,jacket pocket,running pace,NB,N,91.52,83.02,85,87
+4,iphone7,20180326,9,jacket pocket,running pace,NB,N,91.52,81.47,83,83
+4,iphone7,20180326,10,jacket pocket,running pace,NB,N,247.12,223.74,230,230
+4,iphone7,20180326,11,jacket pocket,running pace,NB,N,247.12,229.23,245,239
+4,iphone7,20180326,26,jacket pocket,running pace,NB,N,450.93,406.95,428,424
+4,iphone7,20180326,27,jacket pocket,running pace,NB,N,450.93,421.24,442,442
+4,iphone7,20180326,13,backpack,walking pace,NB,N,91.52,77.03,121,120
+4,iphone7,20180326,14,backpack,walking pace,NB,N,91.52,77.78,122,121
+4,iphone7,20180326,15,backpack,walking pace,NB,N,247.12,221.26,318,319
+4,iphone7,20180326,16,backpack,walking pace,NB,N,247.12,233.47,326,333
+4,iphone7,20180326,17,backpack,walking pace,NB,N,450.93,411.15,578,588
+4,iphone7,20180326,18,backpack,walking pace,NB,N,450.93,399.21,580,580
+4,iphone7,20180326,19,backpack,running pace,NB,N,91.52,72.84,85,80
+4,iphone7,20180326,20,backpack,running pace,NB,N,91.52,78.71,80,88
+4,iphone7,20180326,21,backpack,running pace,NB,N,247.12,205.3,229,229
+4,iphone7,20180326,22,backpack,running pace,NB,N,247.12,204.9,233,226
+4,iphone7,20180326,23,backpack,running pace,NB,N,450.93,417.46,427,439
+4,iphone7,20180326,24,backpack,running pace,NB,N,450.93,385.33,420,407
+4,iphone6,20180326,1,trouser pocket,walking pace,NB,N,91.52,69.38,118,116
+4,iphone6,20180326,2,trouser pocket,walking pace,NB,N,91.52,70.0,117,117
+4,iphone6,20180326,3,trouser pocket,walking pace,NB,N,247.12,184.96,311,312
+4,iphone6,20180326,4,trouser pocket,running pace,NB,N,247.12,250.26,253,244
+4,iphone6,20180326,6,jacket pocket,walking pace,NB,N,91.52,95.98,119,119
+4,iphone6,20180326,7,jacket pocket,walking pace,NB,N,91.52,89.64,119,119
+4,iphone6,20180326,8,jacket pocket,running pace,NB,N,91.52,77.51,85,87
+4,iphone6,20180326,9,jacket pocket,running pace,NB,N,91.52,74.5,83,84
+4,iphone6,20180326,10,jacket pocket,running pace,NB,N,247.12,213.75,230,231
+4,iphone6,20180326,11,jacket pocket,running pace,NB,N,247.12,214.0,245,240
+4,iphone6,20180326,26,jacket pocket,running pace,NB,N,450.93,388.39,428,409
+4,iphone6,20180326,27,jacket pocket,running pace,NB,N,450.93,411.45,442,440
+4,iphone6,20180326,13,backpack,walking pace,NB,N,91.52,80.31,121,121
+4,iphone6,20180326,14,backpack,walking pace,NB,N,91.52,76.44,122,120
+4,iphone6,20180326,15,backpack,walking pace,NB,N,247.12,203.93,318,320
+4,iphone6,20180326,16,backpack,walking pace,NB,N,247.12,229.22,326,324
+4,iphone6,20180326,17,backpack,walking pace,NB,N,450.93,395.89,578,580
+4,iphone6,20180326,18,backpack,walking pace,NB,N,450.93,390.89,580,574
+4,iphone6,20180326,19,backpack,running pace,NB,N,91.52,75.08,85,84
+4,iphone6,20180326,20,backpack,running pace,NB,N,91.52,67.83,80,76
+4,iphone6,20180326,21,backpack,running pace,NB,N,247.12,203.64,229,221
+4,iphone6,20180326,22,backpack,running pace,NB,N,247.12,204.69,233,216
+4,iphone6,20180326,23,backpack,running pace,NB,N,450.93,395.78,427,424
+4,iphone6,20180326,24,backpack,running pace,NB,N,450.93,372.25,420,417
+5,iphone6,20180326,4,trouser pocket,walking pace,NB,N,247.12,201.09,318,322
+5,iphone6,20180326,5,trouser pocket,walking pace,NB,N,450.93,378.96,565,565
+5,iphone6,20180326,6,trouser pocket,walking pace,NB,N,450.93,387.05,560,560
+5,iphone6,20180326,7,trouser pocket,running pace,NB,N,91.52,86.06,78,79
+5,iphone6,20180326,8,trouser pocket,running pace,NB,N,91.52,82.19,78,79
+5,iphone6,20180326,9,trouser pocket,running pace,NB,N,247.12,259.63,214,215
+5,iphone6,20180326,12,trouser pocket,running pace,NB,N,450.93,509.08,399,385
+5,iphone6,20180326,14,jacket pocket,walking pace,NB,N,91.52,79.41,114,113
+5,iphone6,20180326,15,jacket pocket,walking pace,NB,N,91.52,86.75,111,109
+5,iphone6,20180326,16,jacket pocket,walking pace,NB,N,247.12,246.18,297,288
+5,iphone6,20180326,17,jacket pocket,walking pace,NB,N,247.12,250.33,303,302
+5,iphone6,20180326,18,jacket pocket,walking pace,NB,N,450.93,454.43,550,549
+5,iphone6,20180326,19,jacket pocket,walking pace,NB,N,450.93,437.33,546,545
+5,iphone6,20180326,20,jacket pocket,running pace,NB,N,91.52,71.14,82,82
+5,iphone6,20180326,21,jacket pocket,running pace,NB,N,91.52,72.62,76,75
+5,iphone6,20180326,22,jacket pocket,running pace,NB,N,247.12,218.81,202,203
+5,iphone6,20180326,23,jacket pocket,running pace,NB,N,247.12,228.38,211,210
+5,iphone6,20180326,24,jacket pocket,running pace,NB,N,450.93,433.52,376,374
+5,iphone6,20180326,25,jacket pocket,running pace,NB,N,450.93,388.02,377,368
+5,iphone6,20180326,26,trouser pocket,walking pace,NB,N,91.52,77.85,114,114
+5,iphone6,20180326,27,trouser pocket,walking pace,NB,N,91.52,72.91,110,109
+5,iphone6,20180326,28,backpack,walking pace,NB,N,91.52,90.1,113,116
+5,iphone6,20180326,29,backpack,walking pace,NB,N,91.52,81.44,111,111
+5,iphone7,20180326,4,trouser pocket,walking pace,NB,N,247.12,207.69,318,324
+5,iphone7,20180326,5,trouser pocket,walking pace,NB,N,450.93,382.12,565,564
+5,iphone7,20180326,6,trouser pocket,walking pace,NB,N,450.93,388.52,560,565
+5,iphone7,20180326,7,trouser pocket,running pace,NB,N,91.52,89.01,78,77
+5,iphone7,20180326,8,trouser pocket,running pace,NB,N,91.52,92.6,78,79
+5,iphone7,20180326,9,trouser pocket,running pace,NB,N,247.12,252.51,214,213
+5,iphone7,20180326,12,trouser pocket,running pace,NB,N,450.93,492.24,399,398
+5,iphone7,20180326,14,jacket pocket,walking pace,NB,N,91.52,93.1,114,123
+5,iphone7,20180326,15,jacket pocket,walking pace,NB,N,91.52,92.98,111,111
+5,iphone7,20180326,16,jacket pocket,walking pace,NB,N,247.12,243.59,297,297
+5,iphone7,20180326,17,jacket pocket,walking pace,NB,N,247.12,237.36,303,304
+5,iphone7,20180326,18,jacket pocket,walking pace,NB,N,450.93,411.81,550,549
+5,iphone7,20180326,19,jacket pocket,walking pace,NB,N,450.93,426.4,546,546
+5,iphone7,20180326,20,jacket pocket,running pace,NB,N,91.52,81.47,82,81
+5,iphone7,20180326,21,jacket pocket,running pace,NB,N,91.52,79.28,76,77
+5,iphone7,20180326,22,jacket pocket,running pace,NB,N,247.12,222.22,202,205
+5,iphone7,20180326,23,jacket pocket,running pace,NB,N,247.12,229.21,211,211
+5,iphone7,20180326,24,jacket pocket,running pace,NB,N,450.93,405.04,376,376
+5,iphone7,20180326,25,jacket pocket,running pace,NB,N,450.93,424.43,377,376
+5,iphone7,20180326,26,trouser pocket,walking pace,NB,N,91.52,81.32,114,115
+5,iphone7,20180326,27,trouser pocket,walking pace,NB,N,91.52,80.28,110,109
+5,iphone7,20180326,28,backpack,walking pace,NB,N,91.52,96.0,113,113
+5,iphone7,20180326,29,backpack,walking pace,NB,N,91.52,82.82,111,110
+3,iphone6,20180323,1,backpack,walking pace,NB,N,450.93,388.34,548,549
+3,iphone6,20180323,2,backpack,walking pace,NB,N,450.93,400.1,542,631
+3,iphone6,20180323,5,backpack,walking pace,NB,N,91.52,74.72,113,113
+3,iphone6,20180323,6,backpack,walking pace,NB,N,91.52,65.03,114,116
+3,iphone6,20180323,7,backpack,running pace,NB,N,450.93,390.51,427,402
+3,iphone6,20180323,8,backpack,running pace,NB,N,450.93,374.99,430,393
+3,iphone6,20180323,9,backpack,running pace,NB,N,247.12,202.67,232,224
+3,iphone6,20180323,10,backpack,running pace,NB,N,247.12,216.88,234,228
+3,iphone6,20180323,11,backpack,running pace,NB,N,91.52,77.97,85,85
+3,iphone6,20180323,12,backpack,running pace,NB,N,91.52,73.88,83,82
+3,iphone6,20180323,14,trouser pocket,running pace,NB,N,247.12,213.36,226,216
+3,iphone6,20180323,15,trouser pocket,walking pace,NB,N,247.12,167.9,298,296
+3,iphone6,20180323,16,trouser pocket,walking pace,NB,N,450.93,323.48,544,551
+3,iphone6,20180323,17,trouser pocket,running pace,NB,N,91.52,87.25,80,80
+3,iphone6,20180323,18,trouser pocket,walking pace,NB,N,91.52,61.47,112,113
+3,iphone6,20180323,19,trouser pocket,running pace,NB,N,450.93,440.64,434,430
+3,iphone6,20180323,23,backpack,walking pace,NB,N,247.12,188.0,309,309
+3,iphone6,20180323,24,backpack,running pace,NB,N,247.12,200.38,236,203
+3,iphone6,20180323,25,backpack,running pace,NB,N,247.12,194.67,238,208
+3,iphone6,20180323,26,backpack,walking pace,NB,N,247.12,198.49,301,293
+3,iphone6,20180323,27,trouser pocket,walking pace,NB,N,247.12,175.92,306,306
+3,iphone6,20180323,28,trouser pocket,walking pace,NB,N,247.12,175.29,303,293
+3,iphone6,20180323,29,trouser pocket,running pace,NB,N,247.12,259.16,235,234
+3,iphone6,20180323,30,trouser pocket,running pace,NB,N,247.12,254.99,240,233
+3,iphone7,20180323,1,backpack,walking pace,NB,N,450.93,411.9,548,549
+3,iphone7,20180323,2,backpack,walking pace,NB,N,450.93,414.47,542,632
+3,iphone7,20180323,5,backpack,walking pace,NB,N,91.52,77.85,113,112
+3,iphone7,20180323,6,backpack,walking pace,NB,N,91.52,76.28,114,116
+3,iphone7,20180323,7,backpack,running pace,NB,N,450.93,412.33,427,410
+3,iphone7,20180323,8,backpack,running pace,NB,N,450.93,389.35,430,401
+3,iphone7,20180323,9,backpack,running pace,NB,N,247.12,220.15,232,229
+3,iphone7,20180323,10,backpack,running pace,NB,N,247.12,217.78,234,230
+3,iphone7,20180323,11,backpack,running pace,NB,N,91.52,81.05,85,86
+3,iphone7,20180323,12,backpack,running pace,NB,N,91.52,76.82,83,83
+3,iphone7,20180323,16,trouser pocket,walking pace,NB,N,450.93,336.7,544,543
+3,iphone7,20180323,17,trouser pocket,running pace,NB,N,91.52,80.88,80,77
+3,iphone7,20180323,18,trouser pocket,walking pace,NB,N,91.52,62.28,112,108
+3,iphone7,20180323,19,trouser pocket,running pace,NB,N,450.93,409.11,434,404
+3,iphone7,20198323,23,backpack,walking pace,NB,N,247.12,202.9,309,309
+3,iphone7,20198323,24,backpack,running pace,NB,N,247.12,221.84,236,226
+3,iphone7,20198323,25,backpack,running pace,NB,N,247.12,224.61,238,228
+3,iphone7,20198323,26,backpack,walking pace,NB,N,247.12,201.56,301,311
+3,iphone7,20198323,29,trouser pocket,running pace,NB,N,247.12,238.87,235,234
+3,iphone7,20198323,30,trouser pocket,running pace,NB,N,247.12,240.41,240,231
+3,iphone8,20180323,1,hand,walking pace,NB,N,450.93,430.75,548,555
+3,iphone8,20180323,2,hand,walking pace,NB,N,450.93,420.54,542,547
+3,iphone8,20180323,3,hand,walking pace,NB,N,247.12,230.66,296,294
+3,iphone8,20180323,4,hand,walking pace,NB,N,247.12,236.82,300,301
+3,iphone8,20180323,5,hand,walking pace,NB,N,91.52,90.23,113,117
+3,iphone8,20180323,6,hand,walking pace,NB,N,91.52,91.77,114,119
+3,iphone8,20180323,7,hand,running pace,NB,N,450.93,556.29,427,427
+3,iphone8,20180323,8,hand,running pace,NB,N,450.93,582.84,430,435
+3,iphone8,20180323,9,hand,running pace,NB,N,247.12,330.88,232,236
+3,iphone8,20180323,10,hand,running pace,NB,N,247.12,351.62,234,240
+3,iphone8,20180323,11,hand,running pace,NB,N,91.52,139.02,85,88
+3,iphone8,20180323,12,hand,running pace,NB,N,91.52,127.87,83,86
+1,iphone7,20180319,2,trouser pocket,walking pace,NB,N,91.52,80.38,129,130
+1,iphone7,20180319,3,trouser pocket,walking pace,NB,N,247.12,208.83,352,350
+1,iphone7,20180319,4,trouser pocket,walking pace,NB,N,247.12,216.14,358,358
+1,iphone7,20180319,5,trouser pocket,walking pace,NB,N,450.93,399.76,630,627
+1,iphone7,20180319,6,trouser pocket,walking pace,NB,N,450.93,371.22,622,623
+1,iphone7,20180319,7,trouser pocket,running pace,NB,N,91.52,108.32,102,101
+1,iphone7,20180319,8,trouser pocket,running pace,NB,N,91.52,112.92,94,95
+1,iphone7,20180319,9,trouser pocket,running pace,NB,N,247.12,299.29,264,263
+1,iphone7,20180319,10,trouser pocket,running pace,NB,N,247.12,299.48,271,266
+1,iphone7,20180319,11,trouser pocket,running pace,NB,N,450.93,531.78,499,487
+1,iphone7,20180319,12,trouser pocket,running pace,NB,N,450.93,535.33,517,501
+1,iphone6,20180319,2,trouser pocket,walking pace,NB,N,91.52,69.43,129,129
+1,iphone6,20180319,3,trouser pocket,walking pace,NB,N,247.12,200.84,352,352
+1,iphone6,20180319,4,trouser pocket,walking pace,NB,N,247.12,198.63,358,356
+1,iphone6,20180319,5,trouser pocket,walking pace,NB,N,450.93,356.35,630,630
+1,iphone6,20180319,6,trouser pocket,walking pace,NB,N,450.93,341.38,622,621
+1,iphone6,20180319,7,trouser pocket,running pace,NB,N,91.52,101.41,102,99
+1,iphone6,20180319,8,trouser pocket,running pace,NB,N,91.52,107.37,94,96
+1,iphone6,20180319,9,trouser pocket,running pace,NB,N,247.12,309.43,264,264
+1,iphone6,20180319,10,trouser pocket,running pace,NB,N,247.12,309.09,271,267
+1,iphone6,20180319,11,trouser pocket,running pace,NB,N,450.93,540.12,499,494
+1,iphone6,20180319,12,trouser pocket,running pace,NB,N,450.93,534.3,517,496
+1,iphone8,20180319,2,jacket pocket,walking pace,NB,N,91.52,74.68,129,128
+1,iphone8,20180319,3,jacket pocket,walking pace,NB,N,247.12,209.16,352,353
+1,iphone8,20180319,4,jacket pocket,walking pace,NB,N,247.12,215.1,358,357
+1,iphone8,20180319,5,jacket pocket,walking pace,NB,N,450.93,405.64,630,630
+1,iphone8,20180319,6,jacket pocket,walking pace,NB,N,450.93,391.29,622,622
+1,iphone8,20180319,7,jacket pocket,running pace,NB,N,91.52,79.95,102,92
+1,iphone8,20180319,8,jacket pocket,running pace,NB,N,91.52,85.06,94,96
+1,iphone8,20180319,9,jacket pocket,running pace,NB,N,247.12,237.26,264,266
+1,iphone8,20180319,10,jacket pocket,running pace,NB,N,247.12,233.17,271,264
+1,iphone8,20180319,11,jacket pocket,running pace,NB,N,450.93,422.78,499,489
+1,iphone8,20180319,12,jacket pocket,running pace,NB,N,450.93,428.93,517,506
+3,iphone6,20180319,1,jacket pocket,walking pace,NB,N,91.52,89.22,123,117
+3,iphone6,20180319,2,jacket pocket,walking pace,NB,N,91.52,62.85,117,116
+3,iphone6,20180319,3,jacket pocket,walking pace,NB,N,247.12,196.37,298,298
+3,iphone6,20180319,4,jacket pocket,walking pace,NB,N,247.12,177.46,300,298
+3,iphone6,20180319,5,jacket pocket,walking pace,NB,N,450.93,329.67,541,539
+3,iphone6,20180319,6,jacket pocket,walking pace,NB,N,450.93,327.28,541,541
+3,iphone6,20180319,7,jacket pocket,running pace,NB,N,91.52,67.55,83,83
+3,iphone6,20180319,8,jacket pocket,running pace,NB,N,91.52,66.23,84,87
+3,iphone6,20180319,9,jacket pocket,running pace,NB,N,247.12,179.15,233,230
+3,iphone6,20180319,10,jacket pocket,running pace,NB,N,247.12,175.87,225,223
+3,iphone6,20180319,11,jacket pocket,running pace,NB,N,450.93,326.25,405,403
+3,iphone6,20180319,12,jacket pocket,running pace,NB,N,450.93,338.62,412,401
+3,iphone8,20180319,1,jacket pocket,walking pace,NB,N,91.52,82.89,119,119
+3,iphone8,20180319,2,jacket pocket,walking pace,NB,N,91.52,74.53,117,117
+3,iphone8,20180319,3,jacket pocket,walking pace,NB,N,247.12,207.12,298,297
+3,iphone8,20180319,4,jacket pocket,walking pace,NB,N,247.12,179.59,300,300
+3,iphone8,20180319,5,jacket pocket,walking pace,NB,N,450.93,332.84,541,539
+3,iphone8,20180319,6,jacket pocket,walking pace,NB,N,450.93,335.8,541,543
+3,iphone8,20180319,7,jacket pocket,running pace,NB,N,91.52,71.61,83,83
+3,iphone8,20180319,8,jacket pocket,running pace,NB,N,91.52,72.87,84,84
+3,iphone8,20180319,9,jacket pocket,running pace,NB,N,247.12,194.76,233,229
+3,iphone8,20180319,10,jacket pocket,running pace,NB,N,247.12,198.72,225,233
+3,iphone8,20180319,11,jacket pocket,running pace,NB,N,450.93,346.34,405,399
+3,iphone8,20180319,12,jacket pocket,running pace,NB,N,450.93,336.55,412,388
+4,iphone7,20180316,3,trouser pocket,walking pace,NB,N,247.12,184.6,311,312
+4,iphone7,20180316,4,trouser pocket,walking pace,NB,N,247.12,187.74,326,326
+4,iphone7,20180316,5,trouser pocket,walking pace,NB,N,450.93,335.34,570,579
+4,iphone7,20180316,6,trouser pocket,walking pace,NB,N,450.93,330.68,571,567
+4,iphone7,20180316,7,trouser pocket,running pace,NB,N,91.52,95.99,81,83
+4,iphone7,20180316,8,trouser pocket,running pace,NB,N,91.52,93.29,76,76
+4,iphone7,20180316,9,trouser pocket,running pace,NB,N,247.12,258.92,223,222
+4,iphone7,20180316,10,trouser pocket,running pace,NB,N,247.12,262.53,227,223
+4,iphone7,20180316,11,trouser pocket,running pace,NB,N,450.93,474.09,403,397
+4,iphone7,20180316,12,trouser pocket,running pace,NB,N,450.93,483.63,415,412
+4,iphone7,20180316,14,jacket pocket,walking pace,NB,N,91.52,97.78,121,122
+4,iphone7,20180316,15,jacket pocket,walking pace,NB,N,91.52,95.17,117,118
+4,iphone7,20180316,16,jacket pocket,walking pace,NB,N,247.12,256.89,317,317
+4,iphone7,20180316,17,jacket pocket,walking pace,NB,N,247.12,244.43,321,304
+4,iphone7,20180316,18,jacket pocket,walking pace,NB,N,450.93,474.07,582,585
+4,iphone7,20180316,19,jacket pocket,walking pace,NB,N,450.93,454.86,559,554
+4,iphone6,20180316,1,trouser pocket,walking pace,NB,N,91.52,65.4,116,115
+4,iphone6,20180316,2,trouser pocket,walking pace,NB,N,91.52,62.07,115,115
+4,iphone6,20180316,3,trouser pocket,walking pace,NB,N,247.12,179.88,311,303
+4,iphone6,20180316,4,trouser pocket,walking pace,NB,N,247.12,186.07,326,325
+4,iphone6,20180316,5,trouser pocket,walking pace,NB,N,450.93,330.57,570,571
+4,iphone6,20180316,6,trouser pocket,walking pace,NB,N,450.93,325.04,571,568
+4,iphone6,20180316,7,trouser pocket,running pace,NB,N,91.52,88.87,81,83
+4,iphone6,20180316,8,trouser pocket,running pace,NB,N,91.52,72.21,76,77
+4,iphone6,20180316,9,trouser pocket,running pace,NB,N,247.12,250.34,223,222
+4,iphone6,20180316,10,trouser pocket,running pace,NB,N,247.12,255.33,227,223
+4,iphone6,20180316,11,trouser pocket,running pace,NB,N,450.93,464.95,403,401
+4,iphone6,20180316,12,trouser pocket,running pace,NB,N,450.93,467.81,415,411
+4,iphone6,20180316,14,jacket pocket,walking pace,NB,N,91.52,93.8,121,121
+4,iphone6,20180316,15,jacket pocket,walking pace,NB,N,91.52,84.59,117,117
+4,iphone6,20180316,16,jacket pocket,walking pace,NB,N,247.12,248.26,317,317
+4,iphone6,20180316,17,jacket pocket,walking pace,NB,N,247.12,247.88,321,317
+4,iphone6,20180316,18,jacket pocket,walking pace,NB,N,450.93,465.33,582,583
+4,iphone6,20180316,19,jacket pocket,walking pace,NB,N,450.93,442.9,559,556
+3,iphone8,20180316,14,trouser pocket,walking pace,NB,N,247.12,173.64,305,302
+3,iphone8,20180316,15,trouser pocket,walking pace,NB,N,247.12,179.39,305,300
+3,iphone8,20180316,16,trouser pocket,running pace,NB,N,247.12,272.21,240,238
+3,iphone8,20180316,17,trouser pocket,running pace,NB,N,247.12,266.18,237,224
+3,iphone8,20180316,18,trouser pocket,running pace,NB,N,450.93,491.63,429,415
+3,iphone8,20180316,19,trouser pocket,running pace,NB,N,450.93,509.09,425,427
+3,iphone8,20180316,20,trouser pocket,walking pace,NB,N,91.52,65.02,115,111
+3,iphone8,20180316,21,trouser pocket,walking pace,NB,N,91.52,69.64,114,115
+3,iphone8,20180316,22,trouser pocket,walking pace,NB,N,450.93,332.99,538,534
+3,iphone8,20180315,2,trouser pocket,walking pace,NB,N,91.52,66.11,118,116
+3,iphone8,20180315,3,trouser pocket,walking pace,NB,N,247.12,180.36,303,301
+3,iphone8,20180315,4,trouser pocket,walking pace,NB,N,247.12,177.07,304,302
+3,iphone8,20180315,5,trouser pocket,walking pace,NB,N,450.93,318.43,547,544
+3,iphone8,20180315,6,trouser pocket,walking pace,NB,N,450.93,319.01,549,551
+3,iphone8,20180315,7,trouser pocket,running pace,NB,N,91.52,93.41,87,81
+3,iphone8,20180315,8,trouser pocket,running pace,NB,N,91.52,94.15,82,79
+3,iphone6,20180313,1,trouser pocket,walking pace,NB,N,91.52,59.3,117,112
+3,iphone6,20180313,2,trouser pocket,walking pace,NB,N,91.52,58.75,117,108
+3,iphone6,20180313,3,trouser pocket,walking pace,NB,N,247.12,169.14,308,308
+3,iphone6,20180313,4,trouser pocket,walking pace,NB,N,247.12,171.77,308,305
+3,iphone6,20180313,5,trouser pocket,walking pace,NB,N,450.93,299.78,547,532
+3,iphone6,20180313,6,trouser pocket,walking pace,NB,N,450.93,299.61,547,546
+3,iphone6,20180313,7,trouser pocket,running pace,NB,N,91.52,93.2,85,79
+3,iphone6,20180313,8,trouser pocket,running pace,NB,N,91.52,96.4,87,84
+3,iphone6,20180313,9,trouser pocket,running pace,NB,N,247.12,267.99,239,227
+3,iphone6,20180313,10,trouser pocket,running pace,NB,N,247.12,254.64,241,219
+3,iphone6,20180313,11,trouser pocket,running pace,NB,N,450.93,469.03,423,392
+3,iphone6,20180313,12,trouser pocket,running pace,NB,N,450.93,465.32,433,400
+3,iphone6,20180309,1,trouser pocket,walking pace,NB,N,91.52,62.15,120,119
+3,iphone6,20180309,2,trouser pocket,walking pace,NB,N,91.52,58.5,117,117
+3,iphone6,20180309,3,trouser pocket,walking pace,NB,N,247.12,158.38,304,303
+3,iphone6,20180309,4,trouser pocket,walking pace,NB,N,247.12,161.51,303,301
+3,iphone6,20180309,5,trouser pocket,walking pace,NB,N,450.93,299.82,555,557
+3,iphone6,20180309,6,trouser pocket,walking pace,NB,N,450.93,284.6,545,544
+3,iphone6,20180309,10,trouser pocket,running pace,NB,N,247.12,259.31,238,242
+3,iphone6,20180309,11,trouser pocket,running pace,NB,N,450.93,491.1,426,422
+3,iphone6,20180309,12,trouser pocket,running pace,NB,N,450.93,493.57,430,420
+3,iphone6,20180309,14,jacket pocket,walking pace,NB,N,91.52,65.97,114,113
+3,iphone6,20180309,15,jacket pocket,walking pace,NB,N,91.52,57.85,113,112
+3,iphone6,20180309,16,jacket pocket,walking pace,NB,N,247.12,172.79,294,294
+3,iphone6,20180309,17,jacket pocket,walking pace,NB,N,247.12,187.25,297,294
+3,iphone7,20180309,1,trouser pocket,walking pace,NB,N,91.52,62.0,120,119
+3,iphone7,20180309,2,trouser pocket,walking pace,NB,N,91.52,62.71,117,116
+3,iphone7,20180309,3,trouser pocket,walking pace,NB,N,247.12,169.62,304,301
+3,iphone7,20180309,4,trouser pocket,walking pace,NB,N,247.12,168.43,303,301
+3,iphone7,20180309,5,trouser pocket,walking pace,NB,N,450.93,311.6,555,557
+3,iphone7,20180309,6,trouser pocket,walking pace,NB,N,450.93,301.36,545,541
+3,iphone7,20180309,7,trouser pocket,running pace,NB,N,91.52,85.58,86,80
+3,iphone7,20180309,8,trouser pocket,running pace,NB,N,91.52,90.0,87,83
+3,iphone7,20180309,9,trouser pocket,running pace,NB,N,247.12,246.06,231,235
+3,iphone7,20180309,10,trouser pocket,running pace,NB,N,247.12,247.32,238,228
+3,iphone7,20180309,11,trouser pocket,running pace,NB,N,450.93,468.17,426,423
+3,iphone7,20180309,12,trouser pocket,running pace,NB,N,450.93,474.12,430,424
+3,iphone7,20180309,14,jacket pocket,walking pace,NB,N,91.52,76.66,114,112
+3,iphone7,20180309,15,jacket pocket,walking pace,NB,N,91.52,79.58,113,113
+3,iphone7,20180309,16,jacket pocket,walking pace,NB,N,247.12,201.18,294,291
+3,iphone7,20180309,17,jacket pocket,walking pace,NB,N,247.12,210.51,297,297
+3,iphone7,20180309,18,jacket pocket,walking pace,NB,N,450.93,353.15,540,537
+3,iphone7,20180309,19,jacket pocket,walking pace,NB,N,450.93,392.95,535,534
+3,iphone7,20180309,20,jacket pocket,running pace,NB,N,91.52,78.13,87,86
+3,iphone7,20180309,21,jacket pocket,running pace,NB,N,91.52,73.03,86,81
+3,iphone7,20180309,22,jacket pocket,running pace,NB,N,247.12,201.29,233,230
+3,iphone7,20180309,23,jacket pocket,running pace,NB,N,247.12,203.09,232,231
+3,iphone7,20180309,24,jacket pocket,running pace,NB,N,450.93,371.43,427,424
+3,iphone7,20180309,25,jacket pocket,running pace,NB,N,450.93,371.79,429,424
+3,iphone6b,20190618,1,trouser pocket,walking pace,NB,N,91.52,68.91,119,118
+3,iphone6b,20190618,2,trouser pocket,walking pace,NB,N,91.52,72.12,117,118
+3,iphone6b,20190618,3,trouser pocket,walking pace,NB,N,247.12,205.07,302,302
+3,iphone6b,20190618,4,trouser pocket,walking pace,NB,N,247.12,233.34,303,298
+3,iphone6b,20190618,5,trouser pocket,walking pace,NB,N,450.93,391.14,551,546
+3,iphone6b,20190618,6,trouser pocket,walking pace,NB,N,450.93,384.16,553,553
+3,iphone6b,20190618,8,trouser pocket,running pace,NB,N,91.52,77.13,79,78
+3,iphone6b,20190618,9,trouser pocket,running pace,NB,N,91.52,79.2,75,74
+3,iphone6b,20190618,10,trouser pocket,running pace,NB,N,247.12,266.1,222,222
+3,iphone6b,20190618,11,trouser pocket,running pace,NB,N,247.12,272.08,224,219
+3,iphone6b,20190618,12,trouser pocket,running pace,NB,N,450.93,514.1,418,419
+3,iphone6b,20190618,13,trouser pocket,running pace,NB,N,450.93,510.71,419,412
+3,iphone6b,20190620,15,hand,walking pace,NB,N,91.52,90.77,114,118
+3,iphone6b,20190620,16,hand,walking pace,NB,N,91.52,81.33,113,109
+3,iphone5s,20190618,1,trouser pocket,walking pace,NB,N,91.52,63.79,119,119
+3,iphone5s,20190618,2,trouser pocket,walking pace,NB,N,91.52,62.17,117,117
+3,iphone5s,20190618,3,trouser pocket,walking pace,NB,N,247.12,168.76,302,302
+3,iphone5s,20190618,4,trouser pocket,walking pace,NB,N,247.12,165.34,303,297
+3,iphone5s,20190618,5,trouser pocket,walking pace,NB,N,450.93,291.56,551,551
+3,iphone5s,20190618,6,trouser pocket,walking pace,NB,N,450.93,286.63,553,553
+3,iphone5s,20190618,8,trouser pocket,running pace,NB,N,91.52,99.29,79,80
+3,iphone5s,20190618,9,trouser pocket,running pace,NB,N,91.52,94.52,75,74
+3,iphone5s,20190618,10,trouser pocket,running pace,NB,N,247.12,264.43,222,219
+3,iphone5s,20190618,11,trouser pocket,running pace,NB,N,247.12,263.23,224,212
+3,iphone5s,20190618,12,trouser pocket,running pace,NB,N,450.93,503.04,418,416
+3,iphone5s,20190618,13,trouser pocket,running pace,NB,N,450.93,490.67,419,407
+3,iphone5s,20190620,15,hand,walking pace,NB,N,91.52,91.7,114,120
+3,iphone5s,20190620,16,hand,walking pace,NB,N,91.52,89.49,113,121
+3,iphone5s,20190621,1,hand,walking pace,NB,N,91.52,83.26,114,115
+3,iphone5s,20190621,2,hand,walking pace,NB,N,91.52,85.34,112,114
+3,iphone5s,20190621,3,hand,walking pace,NB,N,247.12,230.25,304,303
+3,iphone5s,20190621,4,hand,walking pace,NB,N,247.12,239.53,302,307
+3,iphone5s,20190621,5,hand,walking pace,NB,N,450.93,419.45,550,554
+3,iphone5s,20190621,6,hand,walking pace,NB,N,450.93,426.56,551,552
+3,iphone5s,20190621,8,hand,running pace,NB,N,91.52,103.61,85,88
+3,iphone5s,20190621,9,hand,running pace,NB,N,91.52,79.45,76,73
+3,iphone5s,20190621,10,hand,running pace,NB,N,247.12,260.17,218,225
+3,iphone5s,20190621,11,hand,running pace,NB,N,247.12,290.25,225,229
+3,iphone5s,20190621,12,hand,running pace,NB,N,450.93,499.21,403,409
+3,iphone5s,20190621,13,hand,running pace,NB,N,450.93,521.51,403,407
+3,iphone5s,20190621,15,trouser pocket,walking pace,NB,N,91.52,54.48,119,118
+3,iphone5s,20190621,16,trouser pocket,walking pace,NB,N,91.52,70.7,118,119
+3,iphone6b,20190621,1,hand,walking pace,NB,N,91.52,82.91,114,112
+3,iphone6b,20190621,2,hand,walking pace,NB,N,91.52,80.52,112,115
+3,iphone6b,20190621,3,hand,walking pace,NB,N,247.12,236.08,304,308
+3,iphone6b,20190621,4,hand,walking pace,NB,N,247.12,233.46,302,304
+3,iphone6b,20190621,5,hand,walking pace,NB,N,450.93,420.76,550,554
+3,iphone6b,20190621,6,hand,walking pace,NB,N,450.93,429.04,551,551
+3,iphone6b,20190621,8,hand,running pace,NB,N,91.52,103.29,85,85
+3,iphone6b,20190621,9,hand,running pace,NB,N,91.52,83.3,76,78
+3,iphone6b,20190621,10,hand,running pace,NB,N,247.12,257.42,218,216
+3,iphone6b,20190621,11,hand,running pace,NB,N,247.12,275.58,225,226
+3,iphone6b,20190621,12,hand,running pace,NB,N,450.93,506.91,403,401
+3,iphone6b,20190621,13,hand,running pace,NB,N,450.93,490.54,403,402
+3,iphone6b,20190621,15,trouser pocket,walking pace,NB,N,91.52,66.6,119,119
+3,iphone6b,20190621,16,trouser pocket,walking pace,NB,N,91.52,58.0,118,116
+3,iphone5s,20190624,2,backpack,walking pace,NB,N,91.52,65.29,112,117
+3,iphone5s,20190624,3,backpack,walking pace,NB,N,247.12,183.15,298,296
+3,iphone5s,20190624,4,backpack,walking pace,NB,N,247.12,172.85,294,293
+3,iphone5s,20190624,5,backpack,walking pace,NB,N,450.93,339.3,532,531
+3,iphone5s,20190624,6,backpack,walking pace,NB,N,450.93,347.11,545,543
+3,iphone5s,20190624,8,backpack,running pace,NB,N,91.52,68.2,82,78
+3,iphone5s,20190624,9,backpack,running pace,NB,N,91.52,71.63,81,84
+3,iphone5s,20190624,10,backpack,running pace,NB,N,247.12,205.36,231,225
+3,iphone5s,20190624,11,backpack,running pace,NB,N,247.12,203.79,230,222
+3,iphone5s,20190624,12,backpack,running pace,NB,N,450.93,326.2,411,370
+3,iphone5s,20190624,13,backpack,running pace,NB,N,450.93,318.7,406,349
+3,iphone5s,20190624,15,backpack,walking pace,NB,N,91.52,68.68,117,118
+3,iphone5s,20190624,16,backpack,walking pace,NB,N,91.52,69.28,116,114
+3,iphone6b,20190624,1,backpack,walking pace,NB,N,91.52,77.0,114,113
+3,iphone6b,20190624,2,backpack,walking pace,NB,N,91.52,73.8,112,116
+3,iphone6b,20190624,3,backpack,walking pace,NB,N,247.12,198.57,298,297
+3,iphone6b,20190624,4,backpack,walking pace,NB,N,247.12,180.41,294,294
+3,iphone6b,20190624,5,backpack,walking pace,NB,N,450.93,341.14,532,523
+3,iphone6b,20190624,6,backpack,walking pace,NB,N,450.93,337.99,545,544
+3,iphone6b,20190624,8,backpack,running pace,NB,N,91.52,71.86,82,82
+3,iphone6b,20190624,9,backpack,running pace,NB,N,91.52,68.38,81,85
+3,iphone6b,20190624,10,backpack,running pace,NB,N,247.12,202.88,231,230
+3,iphone6b,20190624,11,backpack,running pace,NB,N,247.12,193.26,230,221
+3,iphone6b,20190624,12,backpack,running pace,NB,N,450.93,371.17,411,385
+3,iphone6b,20190624,13,backpack,running pace,NB,N,450.93,350.43,406,367
+3,iphone6b,20190624,15,backpack,walking pace,NB,N,91.52,68.46,117,117
+3,iphone6b,20190624,16,backpack,walking pace,NB,N,91.52,63.86,116,115
+1,iphone5s,20190626,1,trouser pocket,walking pace,NB,N,91.52,70.68,126,124
+1,iphone5s,20190626,2,trouser pocket,walking pace,NB,N,91.52,74.64,123,123
+1,iphone5s,20190626,3,trouser pocket,walking pace,NB,N,247.12,190.63,335,334
+1,iphone5s,20190626,4,trouser pocket,walking pace,NB,N,247.12,186.91,335,333
+1,iphone5s,20190626,5,trouser pocket,walking pace,NB,N,450.93,343.69,612,613
+1,iphone5s,20190626,6,trouser pocket,walking pace,NB,N,450.93,338.82,609,608
+1,iphone5s,20190626,8,trouser pocket,running pace,NB,N,91.52,88.83,102,92
+1,iphone5s,20190626,9,trouser pocket,running pace,NB,N,91.52,87.26,94,91
+1,iphone5s,20190626,10,trouser pocket,running pace,NB,N,247.12,267.97,276,264
+1,iphone5s,20190626,11,trouser pocket,running pace,NB,N,247.12,263.46,285,256
+1,iphone5s,20190626,12,trouser pocket,running pace,NB,N,450.93,531.69,526,511
+1,iphone5s,20190626,13,trouser pocket,running pace,NB,N,450.93,524.71,516,492
+1,iphone5s,20190626,18,trouser pocket,walking pace,NB,N,91.52,71.64,128,127
+1,iphone5s,20190626,19,trouser pocket,walking pace,NB,N,91.52,62.85,125,108
+1,iphone6b,20190626,1,trouser pocket,walking pace,NB,N,91.52,66.02,126,124
+1,iphone6b,20190626,2,trouser pocket,walking pace,NB,N,91.52,76.63,123,124
+1,iphone6b,20190626,3,trouser pocket,walking pace,NB,N,247.12,199.61,335,336
+1,iphone6b,20190626,4,trouser pocket,walking pace,NB,N,247.12,189.13,335,331
+1,iphone6b,20190626,5,trouser pocket,walking pace,NB,N,450.93,349.34,612,612
+1,iphone6b,20190626,6,trouser pocket,walking pace,NB,N,450.93,351.57,609,607
+1,iphone6b,20190626,8,trouser pocket,running pace,NB,N,91.52,101.14,102,100
+1,iphone6b,20190626,9,trouser pocket,running pace,NB,N,91.52,92.55,94,94
+1,iphone6b,20190626,10,trouser pocket,running pace,NB,N,247.12,280.8,276,274
+1,iphone6b,20190626,11,trouser pocket,running pace,NB,N,247.12,255.64,285,257
+1,iphone6b,20190626,12,trouser pocket,running pace,NB,N,450.93,524.09,526,513
+1,iphone6b,20190626,19,trouser pocket,walking pace,NB,N,91.52,72.08,125,125
+2,iphone5s,20180928,1,backpack,walking pace,NB,N,91.52,75.05,121,130
+2,iphone5s,20180928,2,backpack,walking pace,NB,N,91.52,71.33,118,118
+2,iphone5s,20180928,3,backpack,walking pace,NB,N,247.12,174.53,318,316
+2,iphone5s,20180928,4,backpack,walking pace,NB,N,247.12,172.29,314,313
+2,iphone5s,20180928,5,backpack,walking pace,NB,N,450.93,313.19,590,588
+2,iphone5s,20180928,6,backpack,walking pace,NB,N,450.93,330.09,587,585
+2,iphone5s,20180928,8,backpack,running pace,NB,N,91.52,79.04,82,82
+2,iphone5s,20180928,9,backpack,running pace,NB,N,91.52,63.21,81,78
+2,iphone5s,20180928,10,backpack,running pace,NB,N,247.12,235.91,244,250
+2,iphone5s,20180928,11,backpack,running pace,NB,N,247.12,208.83,238,232
+2,iphone5s,20180928,12,backpack,running pace,NB,N,450.93,404.91,426,424
+2,iphone5s,20180928,13,backpack,running pace,NB,N,450.93,387.05,420,415
+2,iphone5s,20180928,15,backpack,walking pace,NB,N,91.52,60.71,120,118
+2,iphone5s,20180928,16,backpack,walking pace,NB,N,91.52,58.44,119,117
+2,iphone6b,20180628,1,backpack,walking pace,NB,N,91.52,67.05,121,114
+2,iphone6b,20180628,2,backpack,walking pace,NB,N,91.52,62.46,118,116
+2,iphone6b,20180628,3,backpack,walking pace,NB,N,247.12,176.32,318,318
+2,iphone6b,20180628,4,backpack,walking pace,NB,N,247.12,171.31,314,311
+2,iphone6b,20180628,5,backpack,walking pace,NB,N,450.93,329.8,590,589
+2,iphone6b,20180628,6,backpack,walking pace,NB,N,450.93,350.31,587,583
+2,iphone6b,20180628,8,backpack,running pace,NB,N,91.52,74.49,82,79
+2,iphone6b,20180628,9,backpack,running pace,NB,N,91.52,75.22,81,81
+2,iphone6b,20180628,10,backpack,running pace,NB,N,247.12,221.61,244,243
+2,iphone6b,20180628,11,backpack,running pace,NB,N,247.12,216.35,238,226
+2,iphone6b,20180628,12,backpack,running pace,NB,N,450.93,422.1,426,424
+2,iphone6b,20180628,13,backpack,running pace,NB,N,450.93,408.85,420,411
+2,iphone6b,20180628,15,backpack,walking pace,NB,N,91.52,63.22,120,119
+2,iphone6b,20180628,16,backpack,walking pace,NB,N,91.52,63.87,119,118
+1,iphone5s,20190701,1,hand,walking pace,NB,N,91.52,97.29,127,131
+1,iphone5s,20190701,2,hand,walking pace,NB,N,91.52,95.21,124,125
+1,iphone5s,20190701,3,hand,walking pace,NB,N,247.12,254.32,333,335
+1,iphone5s,20190701,4,hand,walking pace,NB,N,247.12,254.74,331,337
+1,iphone5s,20190701,5,hand,walking pace,NB,N,450.93,471.64,607,612
+1,iphone5s,20190701,6,hand,walking pace,NB,N,450.93,458.5,603,603
+1,iphone5s,20190701,8,hand,running pace,NB,N,91.52,105.02,102,102
+1,iphone5s,20190701,9,hand,running pace,NB,N,91.52,101.34,95,96
+1,iphone5s,20190701,10,hand,running pace,NB,N,247.12,276.28,276,269
+1,iphone5s,20190701,11,hand,running pace,NB,N,247.12,276.56,286,272
+1,iphone5s,20190701,12,hand,running pace,NB,N,450.93,500.98,489,487
+1,iphone5s,20190701,13,hand,running pace,NB,N,450.93,481.22,470,458
+1,iphone5s,20190703,15,hand,walking pace,NB,N,91.52,96.39,129,131
+1,iphone5s,20190703,16,hand,walking pace,NB,N,91.52,92.34,124,122
+1,iphone6b,20190701,1,hand,walking pace,NB,N,91.52,86.52,127,126
+1,iphone6b,20190701,2,hand,walking pace,NB,N,91.52,89.13,124,119
+1,iphone6b,20190701,3,hand,walking pace,NB,N,247.12,253.36,333,333
+1,iphone6b,20190701,4,hand,walking pace,NB,N,247.12,253.85,331,335
+1,iphone6b,20190701,5,hand,walking pace,NB,N,450.93,461.45,607,603
+1,iphone6b,20190701,6,hand,walking pace,NB,N,450.93,458.79,603,607
+1,iphone6b,20190701,8,hand,running pace,NB,N,91.52,100.83,102,104
+1,iphone6b,20190701,9,hand,running pace,NB,N,91.52,91.3,95,95
+1,iphone6b,20190701,10,hand,running pace,NB,N,247.12,277.69,276,276
+1,iphone6b,20190701,13,hand,running pace,NB,N,450.93,480.34,470,467
+1,iphone6b,20190703,15,hand,walking pace,NB,N,91.52,92.51,129,125
+1,iphone6b,20190703,16,hand,walking pace,NB,N,91.52,87.97,124,118
+3,iphone6b,20180907,1,trouser pocket,walking pace,NB,N,91.52,62.98,111,112
+3,iphone6b,20180907,2,trouser pocket,walking pace,NB,N,91.52,67.48,112,111
+3,iphone6b,20180907,3,trouser pocket,walking pace,NB,N,247.12,195.08,298,299
+3,iphone6b,20180907,4,trouser pocket,walking pace,NB,N,247.12,183.6,304,298
+3,iphone6b,20180907,5,trouser pocket,walking pace,NB,N,450.93,368.17,536,537
+3,iphone6b,20180907,6,trouser pocket,walking pace,NB,N,450.93,333.15,546,543
+3,iphone6b,20180907,8,trouser pocket,running pace,NB,N,91.52,94.94,83,81
+3,iphone6b,20180907,9,trouser pocket,running pace,NB,N,91.52,92.73,78,77
+3,iphone6b,20180907,10,trouser pocket,running pace,NB,N,247.12,258.06,212,208
+3,iphone6b,20180907,11,trouser pocket,running pace,NB,N,247.12,255.88,219,210
+3,iphone6b,20180907,12,trouser pocket,running pace,NB,N,450.93,476.11,401,397
+3,iphone6b,20180907,13,trouser pocket,running pace,NB,N,450.93,482.1,410,403
+3,iphone6b,20180907,15,jacket pocket,walking pace,NB,N,91.52,74.73,112,114
+3,iphone6b,20180907,16,jacket pocket,walking pace,NB,N,91.52,78.62,112,113
+3,iphone6b,20180907,17,jacket pocket,walking pace,NB,N,247.12,206.57,296,287
+3,iphone6b,20180907,18,jacket pocket,walking pace,NB,N,247.12,189.17,299,294
+3,iphone6b,20180907,19,jacket pocket,walking pace,NB,N,450.93,369.72,539,546
+3,iphone6b,20180907,20,jacket pocket,walking pace,NB,N,450.93,362.42,541,542
+3,iphone6b,20180907,22,jacket pocket,running pace,NB,N,91.52,63.79,83,84
+3,iphone6b,20180907,23,jacket pocket,running pace,NB,N,91.52,72.44,80,82
+3,iphone6b,20180907,24,jacket pocket,running pace,NB,N,247.12,193.12,222,221
+3,iphone6b,20180907,25,jacket pocket,running pace,NB,N,247.12,189.36,225,224
+3,iphone6b,20180907,26,jacket pocket,running pace,NB,N,450.93,352.42,400,387
+3,iphone6b,20180907,27,jacket pocket,running pace,NB,N,450.93,340.59,420,405
+3,iphone6s,20180907,1,trouser pocket,walking pace,NB,N,91.52,69.5,111,109
+3,iphone6s,20180907,2,trouser pocket,walking pace,NB,N,91.52,70.76,112,110
+3,iphone6s,20180907,3,trouser pocket,walking pace,NB,N,247.12,191.8,298,297
+3,iphone6s,20180907,4,trouser pocket,walking pace,NB,N,247.12,197.0,304,301
+3,iphone6s,20180907,5,trouser pocket,walking pace,NB,N,450.93,357.27,536,536
+3,iphone6s,20180907,6,trouser pocket,walking pace,NB,N,450.93,350.67,546,546
+3,iphone6s,20180907,8,trouser pocket,running pace,NB,N,91.52,91.44,83,83
+3,iphone6s,20180907,9,trouser pocket,running pace,NB,N,91.52,90.94,78,79
+3,iphone6s,20180907,10,trouser pocket,running pace,NB,N,247.12,247.67,212,211
+3,iphone6s,20180907,11,trouser pocket,running pace,NB,N,247.12,254.2,219,219
+3,iphone6s,20180907,12,trouser pocket,running pace,NB,N,450.93,470.71,401,399
+3,iphone6s,20180907,13,trouser pocket,running pace,NB,N,450.93,479.33,410,412
+3,iphone6s,20180907,15,jacket pocket,walking pace,NB,N,91.52,88.57,112,115
+3,iphone6s,20180907,16,jacket pocket,walking pace,NB,N,91.52,90.92,112,112
+3,iphone6s,20180907,17,jacket pocket,walking pace,NB,N,247.12,235.87,296,294
+3,iphone6s,20180907,18,jacket pocket,walking pace,NB,N,247.12,228.92,299,300
+3,iphone6s,20180907,19,jacket pocket,walking pace,NB,N,450.93,371.67,539,545
+3,iphone6s,20180907,20,jacket pocket,walking pace,NB,N,450.93,401.67,541,540
+3,iphone6s,20180907,21,jacket pocket,running pace,NB,N,91.52,76.19,83,84
+3,iphone6s,20180907,22,jacket pocket,running pace,NB,N,91.52,77.15,80,81
+3,iphone6s,20180907,23,jacket pocket,running pace,NB,N,247.12,205.43,222,223
+3,iphone6s,20180907,24,jacket pocket,running pace,NB,N,247.12,212.39,225,229
+3,iphone6s,20180907,25,jacket pocket,running pace,NB,N,450.93,397.97,400,400
+3,iphone6s,20180907,26,jacket pocket,running pace,NB,N,450.93,401.86,420,420
+1,iphone6s,20180910,1,trouser pocket,walking pace,NB,N,91.52,71.61,122,121
+1,iphone6s,20180910,2,trouser pocket,walking pace,NB,N,91.52,70.51,119,119
+1,iphone6s,20180910,3,trouser pocket,walking pace,NB,N,247.12,205.56,330,331
+1,iphone6s,20180910,4,trouser pocket,walking pace,NB,N,247.12,203.05,332,335
+1,iphone6s,20180910,5,trouser pocket,walking pace,NB,N,450.93,359.23,575,603
+1,iphone6s,20180910,6,trouser pocket,walking pace,NB,N,450.93,366.8,593,608
+1,iphone6s,20180910,8,trouser pocket,running pace,NB,N,91.52,106.12,95,98
+1,iphone6s,20180910,9,trouser pocket,running pace,NB,N,91.52,99.59,90,91
+1,iphone6s,20180910,10,trouser pocket,running pace,NB,N,247.12,288.66,271,271
+1,iphone6s,20180910,11,trouser pocket,running pace,NB,N,247.12,267.33,256,243
+1,iphone6s,20180910,12,trouser pocket,running pace,NB,N,450.93,537.2,491,491
+1,iphone6s,20180910,13,trouser pocket,running pace,NB,N,450.93,544.39,485,487
+1,iphone6s,20180911,15,hand,walking pace,NB,N,91.52,97.5,118,128
+1,iphone6s,20180911,16,hand,walking pace,NB,N,91.52,92.18,119,121
+1,iphone6s,20180911,17,hand,walking pace,NB,N,247.12,255.33,324,333
+1,iphone6s,20180911,18,hand,walking pace,NB,N,247.12,259.67,322,328
+1,iphone6s,20180911,19,hand,walking pace,NB,N,450.93,461.32,583,583
+1,iphone6s,20180911,20,hand,walking pace,NB,N,450.93,460.95,576,572
+1,iphone6s,20180911,22,hand,running pace,NB,N,91.52,120.01,99,104
+1,iphone6s,20180911,23,hand,running pace,NB,N,91.52,108.27,88,92
+1,iphone6s,20180911,24,hand,running pace,NB,N,247.12,286.52,266,272
+1,iphone6s,20180911,25,hand,running pace,NB,N,247.12,284.56,268,266
+1,iphone6s,20180911,26,hand,running pace,NB,N,450.93,509.29,482,480
+1,iphone6s,20180911,27,hand,running pace,NB,N,450.93,524.1,495,501
+1,iphone6b,20180910,1,trouser pocket,walking pace,NB,N,91.52,70.32,122,120
+1,iphone6b,20180910,2,trouser pocket,walking pace,NB,N,91.52,60.5,119,117
+1,iphone6b,20180910,3,trouser pocket,walking pace,NB,N,247.12,203.72,330,331
+1,iphone6b,20180910,4,trouser pocket,walking pace,NB,N,247.12,183.41,332,321
+1,iphone6b,20180910,5,trouser pocket,walking pace,NB,N,450.93,352.74,575,599
+1,iphone6b,20180910,6,trouser pocket,walking pace,NB,N,450.93,347.8,593,607
+1,iphone6b,20180910,8,trouser pocket,running pace,NB,N,91.52,106.58,95,99
+1,iphone6b,20180910,9,trouser pocket,running pace,NB,N,91.52,98.06,90,90
+1,iphone6b,20180910,10,trouser pocket,running pace,NB,N,247.12,291.96,271,269
+1,iphone6b,20180910,11,trouser pocket,running pace,NB,N,247.12,272.59,256,243
+1,iphone6b,20180910,12,trouser pocket,running pace,NB,N,450.93,539.26,491,487
+1,iphone6b,20180910,13,trouser pocket,running pace,NB,N,450.93,517.0,485,471
+1,iphone6b,20180911,15,hand,walking pace,NB,N,91.52,96.55,118,128
+1,iphone6b,20180911,16,hand,walking pace,NB,N,91.52,93.02,119,123
+1,iphone6b,20180911,17,hand,walking pace,NB,N,247.12,242.75,324,327
+1,iphone6b,20180911,18,hand,walking pace,NB,N,247.12,248.48,322,317
+1,iphone6b,20180911,19,hand,walking pace,NB,N,450.93,464.27,583,590
+1,iphone6b,20180911,20,hand,walking pace,NB,N,450.93,453.38,576,574
+1,iphone6b,20180911,22,hand,running pace,NB,N,91.52,112.99,99,100
+1,iphone6b,20180911,23,hand,running pace,NB,N,91.52,84.5,88,86
+1,iphone6b,20180911,24,hand,running pace,NB,N,247.12,278.02,266,272
+1,iphone6b,20180911,25,hand,running pace,NB,N,247.12,272.44,268,267
+1,iphone6b,20180911,26,hand,running pace,NB,N,450.93,493.59,482,481
+1,iphone6b,20180911,27,hand,running pace,NB,N,450.93,512.5,495,498
+3,iphone6b,20180912,1,backpack,walking pace,NB,N,91.52,71.43,113,114
+3,iphone6b,20180912,2,backpack,walking pace,NB,N,91.52,64.31,109,108
+3,iphone6b,20180912,3,backpack,walking pace,NB,N,247.12,172.09,292,293
+3,iphone6b,20180912,4,backpack,walking pace,NB,N,247.12,179.8,295,294
+3,iphone6b,20180912,8,backpack,running pace,NB,N,91.52,62.41,80,81
+3,iphone6b,20180912,9,backpack,running pace,NB,N,91.52,55.18,76,64
+3,iphone6b,20180912,10,backpack,running pace,NB,N,247.12,164.33,214,188
+3,iphone6b,20180912,11,backpack,running pace,NB,N,247.12,182.2,219,200
+3,iphone6b,20180912,12,backpack,running pace,NB,N,450.93,371.26,399,397
+3,iphone6b,20180912,13,backpack,running pace,NB,N,450.93,367.68,403,400
+3,iphone6b,20180912,15,hand,walking pace,NB,N,91.52,79.35,112,114
+3,iphone6b,20180912,16,hand,walking pace,NB,N,91.52,83.24,108,114
+3,iphone6b,20180912,17,hand,walking pace,NB,N,247.12,216.55,289,283
+3,iphone6b,20180912,18,hand,walking pace,NB,N,247.12,221.99,294,288
+3,iphone6b,20180912,19,hand,walking pace,NB,N,450.93,410.04,541,548
+3,iphone6b,20180912,20,hand,walking pace,NB,N,450.93,407.86,536,539
+3,iphone6b,20180912,22,hand,running pace,NB,N,91.52,102,79,82
+3,iphone6b,20180912,23,hand,running pace,NB,N,91.52,88.9,76,79
+3,iphone6b,20180912,24,hand,running pace,NB,N,247.12,274.79,219,218
+3,iphone6b,20180912,25,hand,running pace,NB,N,247.12,294.07,226,230
+3,iphone6b,20180912,26,hand,running pace,NB,N,450.93,485.36,400,404
+3,iphone6b,20180912,27,hand,running pace,NB,N,450.93,515.99,404,403
+1,iphone6b,20180917,1,low side jacket pocket,walking pace,NB,N,91.52,65.18,127,128
+1,iphone6b,20180917,2,low side jacket pocket,walking pace,NB,N,91.52,63.52,123,120
+1,iphone6b,20180917,3,low side jacket pocket,walking pace,NB,N,247.12,185.36,336,337
+1,iphone6b,20180917,4,low side jacket pocket,walking pace,NB,N,247.12,176.84,335,330
+1,iphone6b,20180917,5,low side jacket pocket,walking pace,NB,N,450.93,350.25,607,607
+1,iphone6b,20180917,6,low side jacket pocket,walking pace,NB,N,450.93,320.08,599,598
+1,iphone6b,20180917,8,low side jacket pocket,running pace,NB,N,91.52,86.81,104,103
+1,iphone6b,20180917,9,low side jacket pocket,running pace,NB,N,91.52,82.43,96,96
+1,iphone6b,20180917,10,low side jacket pocket,running pace,NB,N,247.12,229.93,268,264
+1,iphone6b,20180917,11,low side jacket pocket,running pace,NB,N,247.12,214.05,267,255
+1,iphone6b,20180917,12,low side jacket pocket,running pace,NB,N,450.93,426.9,481,482
+1,iphone6b,20180917,13,low side jacket pocket,running pace,NB,N,450.93,437.38,483,481
+1,iphone6s,20180917,1,low side jacket pocket,walking pace,NB,N,91.52,70.06,128,128
+1,iphone6s,20180917,2,low side jacket pocket,walking pace,NB,N,91.52,68.45,123,120
+1,iphone6s,20180917,3,low side jacket pocket,walking pace,NB,N,247.12,183.97,336,335
+1,iphone6s,20180917,4,low side jacket pocket,walking pace,NB,N,247.12,198.21,335,347
+1,iphone6s,20180917,5,low side jacket pocket,walking pace,NB,N,450.93,337.88,607,607
+1,iphone6s,20180917,6,low side jacket pocket,walking pace,NB,N,450.93,330.26,599,598
+1,iphone6s,20180917,8,low side jacket pocket,running pace,NB,N,91.52,105.58,104,104
+1,iphone6s,20180917,9,low side jacket pocket,running pace,NB,N,91.52,92.05,96,97
+1,iphone6s,20180920,17,low side jacket pocket,running pace,NB,N,91.52,96.19,100,101
+1,iphone6s,20180920,18,low side jacket pocket,running pace,NB,N,91.52,86.38,94,95
+1,iphone6s,20180920,19,low side jacket pocket,running pace,NB,N,247.12,242.43,267,265
+1,iphone6s,20180920,20,low side jacket pocket,running pace,NB,N,247.12,263.17,267,266
+1,iphone6s,20180920,21,low side jacket pocket,running pace,NB,N,450.93,443.86,476,467
+1,iphone6s,20180920,22,low side jacket pocket,running pace,NB,N,450.93,469.27,493,490
+1,iphone6b,20180920,17,low side jacket pocket,running pace,NB,N,91.52,81.94,100,94
+1,iphone6b,20180920,18,low side jacket pocket,running pace,NB,N,91.52,82.13,94,93
+1,iphone6b,20180920,19,low side jacket pocket,running pace,NB,N,247.12,240.26,267,261
+1,iphone6b,20180920,20,low side jacket pocket,running pace,NB,N,247.12,232.05,267,257
+1,iphone6b,20180920,21,low side jacket pocket,running pace,NB,N,450.93,430.99,476,477
+1,iphone6b,20180920,22,low side jacket pocket,running pace,NB,N,450.93,434.64,493,481
+2,iphone6b,20180924,1,low side jacket pocket,walking pace,NB,N,91.52,64.3,120,118
+2,iphone6b,20180924,2,low side jacket pocket,walking pace,NB,N,91.52,64.91,119,117
+2,iphone6b,20180924,3,low side jacket pocket,walking pace,NB,N,247.12,179.49,319,318
+2,iphone6b,20180924,4,low side jacket pocket,walking pace,NB,N,247.12,176.79,324,320
+2,iphone6b,20180924,5,low side jacket pocket,walking pace,NB,N,450.93,332.27,590,585
+2,iphone6b,20180924,6,low side jacket pocket,walking pace,NB,N,450.93,318.5,576,573
+2,iphone6b,20180924,8,low side jacket pocket,running pace,NB,N,91.52,79.97,91,91
+2,iphone6b,20180924,9,low side jacket pocket,running pace,NB,N,91.52,70.5,87,83
+2,iphone6b,20180924,10,low side jacket pocket,running pace,NB,N,247.12,209.13,245,248
+2,iphone6b,20180924,11,low side jacket pocket,running pace,NB,N,247.12,224.04,272,263
+2,iphone6b,20180924,12,low side jacket pocket,running pace,NB,N,450.93,403.55,450,443
+2,iphone6b,20180924,13,low side jacket pocket,running pace,NB,N,450.93,402.73,453,447
+2,iphone6s,20180924,1,low side jacket pocket,walking pace,NB,N,91.52,64.09,120,118
+2,iphone6s,20180924,2,low side jacket pocket,walking pace,NB,N,91.52,75.97,119,119
+2,iphone6s,20180924,3,low side jacket pocket,walking pace,NB,N,247.12,185.9,319,317
+2,iphone6s,20180924,4,low side jacket pocket,walking pace,NB,N,247.12,179.73,324,322
+2,iphone6s,20180924,5,low side jacket pocket,walking pace,NB,N,450.93,332.01,590,586
+2,iphone6s,20180924,6,low side jacket pocket,walking pace,NB,N,450.93,331.7,576,575
+2,iphone6s,20180924,8,low side jacket pocket,running pace,NB,N,91.52,80.69,91,92
+2,iphone6s,20180924,9,low side jacket pocket,running pace,NB,N,91.52,78.39,87,88
+2,iphone6s,20180924,10,low side jacket pocket,running pace,NB,N,247.12,218.8,245,245
+2,iphone6s,20180924,11,low side jacket pocket,running pace,NB,N,247.12,241.97,272,269
+2,iphone6s,20180924,12,low side jacket pocket,running pace,NB,N,450.93,407.92,450,448
+2,iphone6s,20180924,13,low side jacket pocket,running pace,NB,N,450.93,413.07,453,453
